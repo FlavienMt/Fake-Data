@@ -1,0 +1,1001 @@
+patient_id,first_name,last_name,age,gender,dob,admission_date,discharge_date,diagnosis,blood_type,SSN
+1,Gerhard,Anthiftle,103,Male,7/21/2006,4/21/2022,5/28/2022,Diabetes,B-,521-81-0431
+2,Krishnah,Verring,108,Male,5/9/1908,5/28/2021,12/11/2021,Heart Disease,O-,259-11-9561
+3,Evelin,Wilse,104,Agender,4/22/1910,10/1/2022,8/7/2022,Diabetes,A-,302-75-0064
+4,Brendan,Kinsella,102,Male,10/26/1923,3/10/2021,9/3/2022,COVID-19,AB+,228-68-9606
+5,Kareem,Manueli,99,Male,5/22/1902,1/20/2021,5/13/2021,Stroke,A-,219-75-5475
+6,Hamlin,Goldfinch,52,Male,2/15/1910,11/10/2021,2/24/2022,Heart Disease,O-,411-72-3929
+7,Sigfrid,Praten,26,Male,12/3/1927,2/20/2020,5/22/2021,Diabetes,AB-,324-17-5936
+8,Caprice,Wyon,88,Female,10/19/1951,12/15/2020,3/29/2022,COVID-19,A+,220-46-4720
+9,Luce,Summerfield,70,Female,3/9/1952,10/25/2022,3/15/2020,Heart Disease,B+,550-09-9302
+10,Arline,Menlove,51,Female,9/14/1980,11/10/2022,3/31/2021,Cancer,B+,764-74-4427
+11,Rolland,Lucy,75,Male,10/9/2015,4/20/2021,1/8/2020,Heart Disease,AB-,698-19-1566
+12,Elfrieda,Stonhouse,114,Female,4/6/1908,4/9/2020,7/30/2021,Diabetes,B+,301-52-8227
+13,Dieter,Denyakin,16,Male,8/30/1961,1/21/2022,1/3/2021,Stroke,B+,340-60-0407
+14,Cate,Doutch,89,Female,9/5/2004,5/11/2022,4/5/2021,COVID-19,O-,261-70-2436
+15,Dex,Hiseman,81,Male,12/23/1965,7/14/2021,7/21/2021,Cancer,O-,720-16-5442
+16,Scot,Nerney,12,Male,2/26/1902,10/5/2022,4/28/2021,Cancer,AB-,738-98-7196
+17,Carolynn,Barthelemy,55,Female,1/24/1949,7/15/2022,5/9/2022,Cancer,B+,823-56-7857
+18,Moise,Kenington,120,Male,10/14/1956,1/11/2022,1/1/2020,COVID-19,A-,310-77-2845
+19,Viki,Angear,51,Female,11/27/1975,4/25/2021,9/25/2022,COVID-19,A-,661-70-6165
+20,Kinnie,Ahmad,55,Agender,6/14/1954,4/11/2021,3/5/2022,Cancer,AB+,138-43-3213
+21,Justina,Skottle,30,Female,9/4/1954,4/4/2020,10/29/2020,Cancer,B+,738-93-6645
+22,Aharon,Zaniolini,110,Male,3/4/2010,6/28/2022,7/26/2021,Diabetes,B-,493-12-0885
+23,Tess,Leif,88,Female,9/3/1960,10/1/2020,12/14/2020,Heart Disease,B-,175-91-1833
+24,Pyotr,Beadnell,50,Male,8/22/1929,12/16/2022,10/10/2022,Diabetes,AB-,404-05-5602
+25,Shae,Hadland,20,Female,8/3/1995,7/20/2021,10/2/2022,Heart Disease,AB-,709-44-6102
+26,Mylo,Clohisey,64,Male,10/26/2011,2/15/2022,9/27/2021,Heart Disease,O-,202-90-0013
+27,Henri,Ioselev,34,Male,9/25/1991,5/29/2021,10/20/2021,Heart Disease,A-,148-42-5177
+28,Chevalier,Mayer,21,Male,4/2/2020,12/27/2022,9/25/2021,Heart Disease,A+,208-03-8826
+29,Chuck,Kirkham,46,Male,5/29/2011,5/1/2020,7/25/2022,Cancer,O-,687-94-7215
+30,Rebekah,MacCheyne,10,Female,9/30/1995,10/26/2022,2/27/2020,Stroke,O+,883-53-9655
+31,Iseabal,Cazin,49,Female,1/26/1973,11/20/2020,9/28/2020,Heart Disease,AB+,808-31-1200
+32,Kaile,Grayling,52,Female,1/24/1970,4/6/2020,7/21/2020,Diabetes,O-,260-85-8208
+33,Maureen,Gislebert,55,Female,2/17/1947,9/10/2021,6/14/2022,Stroke,B+,276-48-3585
+34,Westbrook,Braithwaite,56,Male,1/6/1917,12/3/2021,7/6/2022,Cancer,AB-,421-79-8450
+35,Lemuel,Clarricoates,120,Non-binary,1/19/1980,5/17/2022,11/16/2020,Cancer,A-,322-11-6135
+36,Dougie,Graybeal,46,Male,8/5/1912,2/10/2022,2/11/2022,COVID-19,A-,763-22-4864
+37,Catlaina,Trowell,92,Bigender,10/9/1916,2/3/2022,4/1/2022,Stroke,A+,296-84-3172
+38,Kelcey,Rennicks,89,Female,5/16/2001,6/10/2021,2/17/2022,Stroke,A+,686-74-0776
+39,Flemming,Ingreda,115,Male,6/6/1981,5/29/2021,5/5/2020,Cancer,O-,175-62-6813
+40,Massimo,Gillott,36,Male,11/6/1907,2/8/2022,4/10/2021,Stroke,B-,387-79-0702
+41,Baily,Savage,84,Male,5/3/1936,11/11/2020,11/14/2021,COVID-19,B-,741-15-2681
+42,Malanie,Wagen,24,Female,5/18/1964,12/26/2021,7/10/2020,Stroke,A+,639-56-7037
+43,Valentino,Warters,118,Male,2/13/1953,10/8/2022,4/13/2022,Cancer,O+,306-86-7549
+44,Toma,Mavin,6,Female,4/5/1964,6/16/2021,7/27/2022,Diabetes,B-,800-26-9711
+45,Matt,Agglione,63,Male,3/24/1972,5/16/2022,12/23/2021,Diabetes,O-,321-14-7902
+46,Roldan,Peasegod,108,Male,6/16/1971,2/6/2021,11/28/2021,Stroke,B-,477-63-8213
+47,Diena,Mee,43,Female,12/30/2005,8/13/2020,3/16/2020,COVID-19,O-,172-58-5171
+48,Jakob,Conelly,6,Male,8/19/1908,5/17/2022,5/29/2020,COVID-19,A+,285-65-6176
+49,Margalit,Hughlock,75,Female,4/9/2003,11/4/2021,3/26/2021,Stroke,B-,338-20-3275
+50,Mollie,Gwynne,97,Female,7/17/2008,7/9/2022,11/19/2020,Heart Disease,O-,657-60-1399
+51,Aurie,Grafham,28,Female,4/15/1939,12/23/2021,7/10/2022,Cancer,B-,174-63-2790
+52,Kurt,Ferrarello,112,Genderfluid,7/11/1983,3/17/2022,4/28/2022,Stroke,A-,824-31-1733
+53,Bebe,Quipp,17,Female,8/29/1912,3/13/2022,1/20/2022,COVID-19,AB+,217-16-7246
+54,Halette,Ganley,101,Female,4/10/2009,1/24/2021,9/7/2021,Cancer,B+,123-20-7406
+55,Reggie,Stubs,113,Male,8/27/1918,5/6/2020,8/5/2022,COVID-19,O-,426-15-9896
+56,Sheelagh,Sharland,75,Female,7/30/1984,9/17/2021,4/4/2021,Cancer,A+,846-68-3790
+57,Land,Klimt,23,Polygender,2/12/1911,9/11/2021,4/9/2020,Stroke,AB-,753-45-1559
+58,Olympe,Piggrem,8,Female,5/12/1933,6/7/2022,5/2/2022,Diabetes,A+,802-19-0402
+59,Anne,Robardley,2,Female,12/6/1922,6/8/2022,4/12/2020,Heart Disease,B-,718-25-8850
+60,Giraud,Arnoult,57,Male,11/4/1941,3/1/2020,1/29/2021,Diabetes,O-,859-87-2980
+61,Valerie,Abramsky,36,Female,12/8/1941,8/23/2022,12/21/2021,Heart Disease,B-,834-39-0186
+62,Maris,Wallbridge,13,Female,4/4/1954,8/15/2021,3/26/2022,Diabetes,AB-,230-27-6611
+63,Haydon,Wixon,55,Genderqueer,9/1/1988,11/6/2020,7/4/2020,Stroke,B-,383-84-6244
+64,Fey,Wethered,9,Female,9/24/2003,10/20/2021,2/24/2021,Cancer,A-,766-52-7435
+65,Falkner,Kynston,69,Male,6/1/1966,2/12/2022,6/6/2021,COVID-19,A+,497-86-5352
+66,Rolfe,Gulc,26,Male,2/7/2019,8/18/2021,5/31/2021,Stroke,AB+,787-16-8837
+67,Mady,McCallister,92,Female,5/26/1965,9/21/2022,1/6/2021,Heart Disease,A-,579-43-1777
+68,Kristoffer,Dearness,62,Male,5/10/1962,2/22/2020,7/16/2020,COVID-19,AB+,336-32-2750
+69,Gennifer,Verrell,57,Female,3/25/1931,1/4/2022,10/17/2021,Stroke,O-,383-82-4725
+70,Gottfried,Diggins,28,Male,8/9/2014,5/1/2022,9/17/2021,COVID-19,AB-,842-09-0566
+71,Katharine,Hefner,2,Female,9/27/1937,9/14/2022,11/9/2021,Diabetes,AB-,100-10-4363
+72,Joline,Olenin,70,Female,4/9/1947,7/26/2022,8/10/2021,Heart Disease,O+,787-20-3416
+73,Nil,Bointon,99,Male,1/18/1968,6/23/2022,9/27/2022,Heart Disease,A+,657-80-6485
+74,Roze,Plunket,56,Female,8/30/2017,8/13/2021,6/24/2022,Heart Disease,A-,876-18-5497
+75,Ros,Serotsky,36,Female,12/14/1909,6/4/2020,9/21/2021,Stroke,AB-,381-59-8715
+76,Timmy,Janway,116,Female,12/8/2004,1/21/2022,7/12/2020,Stroke,B+,574-20-4433
+77,Gibbie,McClure,49,Male,10/30/1933,8/15/2021,8/10/2021,COVID-19,O+,714-87-1935
+78,Maryellen,Smittoune,26,Polygender,7/11/1922,9/5/2021,6/14/2021,Stroke,AB+,347-42-1321
+79,Francklin,Chipps,89,Male,4/17/1988,4/3/2022,2/16/2021,Cancer,B+,670-73-8197
+80,Lorita,Klosa,53,Genderfluid,3/3/1907,7/15/2021,9/30/2021,Heart Disease,O+,397-16-8143
+81,Angel,Aspinell,0,Male,9/13/1982,9/20/2022,10/2/2021,Cancer,A+,129-88-3453
+82,Hayes,Forster,40,Male,12/8/1906,7/26/2021,11/8/2020,Stroke,O-,185-63-9935
+83,Ivan,Wilkin,19,Male,6/21/2003,4/12/2022,11/10/2022,COVID-19,AB+,390-67-0419
+84,Eyde,MacFaell,120,Female,3/28/1989,6/16/2020,3/24/2020,Cancer,B+,812-61-8861
+85,Shannah,Yukhov,86,Female,2/12/1980,6/3/2020,2/17/2021,Stroke,O+,641-76-2173
+86,Jarrod,Munslow,89,Male,7/20/1928,4/14/2021,8/28/2021,COVID-19,AB+,212-27-5829
+87,Zacharias,Hamor,78,Male,5/15/1984,8/27/2022,11/13/2021,Stroke,B+,607-68-6351
+88,Marla,Davidoff,51,Female,4/11/1976,9/19/2022,2/6/2022,COVID-19,AB-,448-10-4716
+89,Mallory,Moodycliffe,2,Female,1/27/1937,1/24/2022,7/7/2020,Cancer,B+,166-31-6699
+90,Keven,Edis,107,Male,7/9/1906,7/12/2022,2/15/2021,Diabetes,A-,308-14-6451
+91,Brucie,Vevers,64,Male,10/30/2020,4/3/2022,8/20/2020,Cancer,O+,128-49-7132
+92,Chadwick,Hardson,65,Male,1/13/1935,1/17/2020,4/23/2020,Diabetes,AB-,370-72-0149
+93,Maddalena,Klimus,43,Female,8/9/1956,7/11/2022,6/21/2021,Diabetes,B+,832-63-2334
+94,Giffard,Giocannoni,102,Male,2/16/1935,9/19/2021,11/18/2021,Stroke,A-,153-39-9121
+95,Cindy,Nevin,90,Female,10/13/1957,10/12/2022,9/27/2020,Stroke,AB+,284-33-1074
+96,Hill,Whillock,58,Bigender,6/24/1955,9/14/2022,11/30/2021,Diabetes,AB+,465-07-3304
+97,Bruce,Longfut,71,Male,6/30/1908,8/14/2020,3/8/2022,Diabetes,A-,364-15-8986
+98,Annabelle,Hexham,60,Female,10/2/1912,4/9/2020,11/28/2020,Stroke,B+,173-90-0320
+99,Patrizius,Phorsby,12,Genderfluid,12/11/1926,10/28/2022,6/13/2021,COVID-19,A+,778-92-5367
+100,Hussein,Capnor,100,Male,5/26/1916,3/20/2021,9/8/2021,Stroke,O+,614-68-2430
+101,Michel,Donnelly,18,Female,9/5/2007,4/5/2021,8/6/2022,COVID-19,O-,438-10-3945
+102,Ag,Cardus,94,Female,11/4/2005,12/29/2021,4/12/2021,Stroke,B-,396-19-8234
+103,Falkner,Barnewell,64,Male,1/23/2000,3/6/2022,7/5/2020,Cancer,B-,415-11-7762
+104,Gregoire,Paffley,89,Male,3/14/1905,11/4/2021,10/14/2020,Cancer,B-,317-72-4622
+105,Franni,Pyle,84,Female,1/23/1995,4/16/2022,11/14/2020,Heart Disease,O-,734-25-7422
+106,Taffy,Maund,83,Female,7/10/1997,10/26/2020,5/19/2021,Diabetes,B-,239-68-9761
+107,Kelci,Moylan,80,Female,10/1/1949,10/27/2020,8/27/2021,Diabetes,O-,842-14-6302
+108,Bibby,Kohrs,48,Female,10/19/2013,3/21/2021,3/4/2020,Cancer,AB-,356-31-1670
+109,Reagen,Grumley,112,Male,4/24/1967,12/7/2021,7/8/2022,Heart Disease,B-,524-43-1405
+110,Morey,Frammingham,23,Genderfluid,1/6/2022,8/5/2020,1/7/2022,Cancer,B+,248-63-5417
+111,Aldon,Haydon,43,Male,3/3/1920,12/13/2022,2/29/2020,COVID-19,B-,184-02-7665
+112,Iolande,Burford,54,Female,6/5/1910,11/10/2020,6/9/2020,Cancer,B+,552-29-2642
+113,Ivonne,Gerrietz,29,Female,7/3/1941,10/15/2021,7/2/2021,Cancer,AB-,185-27-6336
+114,Morty,Atyeo,90,Male,7/6/1964,10/1/2022,11/11/2021,Stroke,B+,369-29-8719
+115,Bert,Blennerhassett,47,Male,5/14/1955,11/15/2022,11/15/2020,COVID-19,O+,476-73-5680
+116,Faythe,Barton,108,Female,6/4/2004,1/12/2021,5/31/2020,Heart Disease,A+,604-77-8111
+117,Levin,Coton,25,Male,6/13/1947,7/7/2021,8/3/2021,Stroke,B+,578-78-3419
+118,Dall,Lowcock,36,Male,10/6/1922,8/20/2022,3/13/2022,Cancer,A+,867-25-7992
+119,Quintin,Beagles,9,Male,6/28/2015,10/6/2020,3/22/2020,Cancer,B-,460-62-7804
+120,Justinian,Mellish,26,Male,2/9/1960,2/9/2022,4/25/2020,COVID-19,AB+,453-49-7293
+121,Aldin,O'Hallagan,111,Male,5/30/1948,6/12/2020,5/25/2020,Stroke,A+,519-82-5660
+122,Karlee,Kahn,75,Female,7/18/2014,1/29/2022,10/20/2022,Stroke,O-,457-88-1411
+123,Em,Rate,1,Male,5/4/1902,8/18/2021,9/20/2021,Cancer,AB+,605-12-8386
+124,Lonni,Ivoshin,52,Female,7/18/1949,2/21/2021,4/4/2020,COVID-19,A+,313-36-1189
+125,Chelsey,Roostan,52,Female,1/22/1927,5/15/2021,11/6/2021,Diabetes,AB+,891-50-5732
+126,Aigneis,Jiroutek,31,Female,8/25/1948,7/24/2020,12/17/2020,Heart Disease,AB-,589-88-8252
+127,Gordie,Tassell,112,Male,4/17/1981,3/11/2020,1/31/2021,Stroke,B+,664-39-7633
+128,Sanders,Mansuer,40,Male,2/15/2011,6/15/2020,4/13/2022,Stroke,AB-,739-98-2438
+129,Hunt,Leach,94,Male,7/19/1900,8/8/2021,9/3/2022,Cancer,A-,120-67-8419
+130,Barbette,Lockery,34,Female,10/14/1956,6/2/2022,4/4/2021,Diabetes,AB+,369-44-1039
+131,Troy,Bealton,47,Male,6/5/1982,6/2/2022,12/11/2020,Heart Disease,O+,341-94-5692
+132,Carmelina,Conechie,20,Female,3/30/1961,4/23/2020,1/8/2021,Diabetes,A-,256-66-4362
+133,Ailyn,Knott,9,Female,12/25/1940,8/16/2022,2/25/2020,Heart Disease,AB-,375-20-3286
+134,Jeralee,Holah,5,Female,2/16/1928,7/13/2021,3/1/2020,COVID-19,B-,280-46-9619
+135,Margaretta,MacKean,57,Female,1/27/1995,3/8/2022,3/19/2021,Diabetes,O+,232-12-5293
+136,Kathe,Lafay,101,Female,1/23/1904,10/16/2022,10/1/2021,Heart Disease,B+,138-09-0508
+137,Betsey,Felderer,110,Female,2/12/1919,5/3/2021,12/25/2022,COVID-19,B+,745-39-7097
+138,Georgie,Maplesden,86,Female,2/23/1994,11/6/2020,5/27/2021,Diabetes,B-,321-13-1889
+139,Georgy,Phillp,65,Male,6/20/1912,5/29/2022,10/14/2021,Diabetes,A+,457-46-4285
+140,Rhetta,Hodgins,60,Female,4/19/1934,3/12/2021,6/18/2022,Diabetes,B-,519-99-7874
+141,Ring,O'Growgane,18,Bigender,1/18/1937,7/11/2022,10/17/2020,COVID-19,B-,373-90-5453
+142,Stormi,Balassa,88,Polygender,8/31/1942,2/14/2021,5/17/2020,Cancer,A-,576-57-0233
+143,Ellsworth,Walasik,108,Male,12/4/1907,5/14/2022,9/27/2020,Diabetes,O-,322-43-3403
+144,Geoffry,Dodgson,68,Male,5/30/1989,11/27/2022,6/29/2020,COVID-19,O+,604-45-6042
+145,Marlene,Olden,47,Female,7/22/1953,2/6/2021,11/12/2020,Heart Disease,A-,162-61-6493
+146,Cookie,Hanmore,83,Female,2/1/1976,5/31/2021,9/1/2022,Cancer,AB-,336-57-4339
+147,Angeli,Spleving,45,Male,2/11/1991,6/12/2022,1/7/2020,Heart Disease,B+,715-70-4498
+148,Nannie,Shillabear,0,Female,3/22/1951,4/2/2022,11/24/2022,Stroke,O-,720-75-2026
+149,Shelton,Ferandez,24,Male,12/19/1978,8/13/2022,11/26/2020,COVID-19,O-,210-53-0979
+150,Kimberly,Renton,52,Female,6/11/1997,10/4/2020,5/26/2021,Diabetes,A+,818-45-9816
+151,Yettie,Brockhouse,104,Non-binary,5/23/1956,9/5/2022,4/28/2021,Cancer,A-,756-78-3019
+152,Judon,Mallatratt,105,Male,6/25/1979,4/5/2021,2/4/2020,Diabetes,O+,518-11-9779
+153,Binnie,Chisolm,55,Female,3/16/2006,4/24/2022,2/3/2022,Heart Disease,A-,265-50-1697
+154,Lynnette,Colicot,97,Female,5/25/1966,4/24/2022,9/23/2020,Stroke,A+,810-48-2352
+155,Jonathan,D'Onisi,31,Male,1/8/1907,9/11/2022,11/15/2021,Heart Disease,O-,751-53-8399
+156,Sasha,Kamenar,2,Female,12/22/1944,6/26/2022,7/4/2022,Heart Disease,A-,167-91-7102
+157,Leonardo,Rudd,20,Male,3/28/2020,7/25/2022,3/24/2021,Stroke,A+,325-83-9356
+158,Padriac,Pitson,88,Male,3/4/1983,7/10/2022,11/17/2022,Diabetes,B+,494-66-8522
+159,Gunner,Laydel,71,Male,7/9/1955,8/31/2021,10/6/2021,COVID-19,O-,141-48-9421
+160,Shurlocke,Stearnes,101,Male,5/13/1949,11/24/2021,1/26/2020,Stroke,B+,189-59-4208
+161,Skippie,Mountjoy,100,Male,4/19/1973,5/3/2021,8/28/2021,Heart Disease,AB-,590-51-9688
+162,Sherlock,Axtell,104,Male,1/15/1948,1/7/2021,10/19/2021,Diabetes,B+,885-17-6728
+163,Eleonore,Bilverstone,88,Female,4/20/2016,11/18/2021,1/12/2022,Diabetes,B+,325-34-2757
+164,Jeffy,Eat,94,Male,5/27/1908,12/23/2020,5/1/2020,COVID-19,A-,478-75-9809
+165,Fitz,Kempson,87,Male,5/1/1989,7/20/2020,12/24/2020,COVID-19,B+,747-53-0857
+166,Trescha,Capponer,24,Polygender,4/4/1956,10/19/2021,8/8/2020,Stroke,AB-,114-69-0697
+167,Sinclair,Hunstone,72,Male,11/5/2018,1/25/2020,9/5/2020,Heart Disease,AB+,104-93-1232
+168,Devland,Kelsey,49,Male,9/20/1932,12/7/2020,10/29/2022,Diabetes,AB-,601-46-0664
+169,Caz,MacCathay,61,Male,10/2/1925,6/1/2022,2/3/2020,Heart Disease,A+,805-14-4215
+170,Sindee,Jorczyk,43,Female,5/7/2015,3/28/2020,11/12/2022,Stroke,B-,705-06-9325
+171,Derry,Campaigne,4,Male,6/3/1933,10/11/2022,1/18/2021,Stroke,B+,477-68-0807
+172,Carlo,Edgeson,35,Male,10/20/1942,10/1/2021,11/22/2021,Heart Disease,A-,331-83-7868
+173,Winn,Rheaume,36,Male,9/4/1992,8/16/2021,4/18/2022,Heart Disease,A+,575-25-5466
+174,Ashlin,Winkell,91,Male,9/19/1955,8/15/2022,4/25/2021,Heart Disease,AB+,307-90-9421
+175,Anabel,Talby,98,Female,8/22/1936,2/25/2020,12/13/2021,Cancer,O+,538-81-0766
+176,Randell,Freshwater,102,Male,10/22/1929,3/6/2020,11/28/2021,Stroke,A+,318-68-9359
+177,Hubey,Petrovykh,68,Male,9/23/1995,5/4/2021,7/18/2020,Stroke,B-,703-18-6873
+178,Kareem,Dowyer,44,Male,2/8/1990,9/4/2021,11/4/2021,Stroke,A+,126-72-9193
+179,Carr,Sobieski,51,Male,5/29/2000,3/15/2022,11/18/2022,Diabetes,B-,496-64-3603
+180,Bradney,Basilone,12,Male,7/15/2009,3/16/2020,11/10/2021,COVID-19,O+,339-77-6459
+181,Tabitha,Gladhill,81,Female,11/29/1999,11/3/2020,9/25/2022,Heart Disease,A-,342-66-3528
+182,Winnie,Gorioli,31,Male,9/11/1941,10/17/2021,10/15/2021,Heart Disease,O-,176-53-2191
+183,Shauna,Emett,92,Female,1/31/1916,1/31/2021,3/4/2022,Cancer,B-,782-01-6182
+184,Callie,Riediger,30,Female,2/7/1988,8/31/2020,3/22/2021,Cancer,A+,532-06-4029
+185,Romain,Demcik,120,Male,12/31/1955,2/21/2021,5/31/2021,Stroke,B-,260-98-4969
+186,Evelin,Caley,92,Male,1/6/1919,10/28/2020,7/2/2022,Cancer,O+,720-24-4064
+187,Ernest,Shillito,74,Male,5/3/1982,3/4/2020,1/1/2020,Diabetes,AB-,326-02-0323
+188,Francyne,Ruggieri,52,Female,9/16/1984,10/18/2021,10/12/2020,COVID-19,O+,142-32-4307
+189,Emlyn,Pero,58,Female,12/14/1918,6/12/2020,3/4/2020,Heart Disease,B+,861-58-2825
+190,Gifford,Wilsone,92,Agender,5/6/1985,11/12/2022,4/1/2022,Cancer,B+,136-54-1924
+191,Theresa,Dwight,119,Female,1/28/1933,6/22/2022,10/28/2021,Heart Disease,A+,529-42-9287
+192,Kent,McLafferty,16,Male,4/23/2002,3/3/2022,10/28/2021,Heart Disease,O+,293-22-3268
+193,May,Cadell,44,Female,2/15/1998,4/22/2021,3/8/2022,COVID-19,A-,202-87-3864
+194,Octavius,Mereweather,3,Male,6/26/1926,1/29/2021,12/8/2021,Heart Disease,B-,148-90-2536
+195,Maggi,Divis,9,Female,3/12/2004,5/11/2021,12/20/2020,Cancer,O+,746-28-5816
+196,Byrom,Blewmen,77,Male,1/2/1900,12/18/2022,5/15/2021,Stroke,B-,883-54-4952
+197,Clevey,Blood,16,Male,9/17/2010,12/28/2020,1/16/2020,Diabetes,AB-,125-97-3668
+198,Perice,Duligall,35,Male,10/23/1909,7/28/2022,11/27/2021,COVID-19,A-,473-95-9296
+199,Michaelina,Beevens,63,Female,7/2/1993,12/12/2022,11/24/2021,Stroke,AB+,892-32-1147
+200,Maressa,Summerton,56,Female,5/12/1956,7/11/2020,10/12/2021,Heart Disease,O+,761-75-6801
+201,Alicia,Feeny,68,Female,7/24/1961,12/23/2021,10/16/2021,Heart Disease,B-,860-31-6605
+202,Petrina,Mirfin,108,Female,3/26/1947,11/24/2022,4/24/2021,Stroke,O+,889-70-7835
+203,Marylee,Champain,7,Female,8/17/1918,12/13/2021,10/24/2020,Cancer,O-,879-48-2605
+204,Amandi,Kelleway,117,Female,8/19/1952,7/19/2022,7/12/2020,Heart Disease,AB-,631-56-0976
+205,Edwin,Dunnaway,9,Male,2/12/2017,1/3/2022,6/9/2022,Cancer,B+,377-68-1749
+206,Cliff,Martins,41,Male,5/28/1952,2/22/2022,7/27/2022,COVID-19,AB+,720-07-5516
+207,Whitby,Winton,65,Male,8/9/1989,2/13/2022,11/3/2020,Cancer,O-,837-96-0952
+208,Lucian,Carver,100,Genderfluid,9/21/1937,7/30/2020,2/25/2020,Heart Disease,A-,173-26-6546
+209,Dane,Stannah,78,Male,3/7/1918,10/12/2022,2/17/2021,Cancer,AB+,598-96-2503
+210,Mabelle,Sykes,16,Female,12/15/1980,11/19/2020,8/12/2020,COVID-19,O-,203-56-3110
+211,My,Flinn,26,Male,6/8/2008,3/16/2022,5/23/2021,Heart Disease,A-,200-26-1160
+212,Chilton,Ovell,8,Male,5/5/1974,6/13/2021,12/10/2022,Heart Disease,O-,334-23-0992
+213,Zilvia,Readwood,95,Female,7/2/1943,5/6/2021,11/5/2022,COVID-19,AB+,353-15-4833
+214,Hastie,Graveson,105,Male,12/15/2011,4/14/2020,4/2/2020,Cancer,A+,715-23-4296
+215,Dorolice,Giovanizio,39,Female,10/22/1998,9/14/2020,2/20/2021,Heart Disease,O+,289-02-8602
+216,Nowell,O'Mailey,60,Male,6/29/1970,10/18/2020,8/16/2022,Diabetes,AB-,815-92-0426
+217,Sigfried,Gaucher,41,Male,7/29/1962,9/9/2021,1/25/2021,Heart Disease,O-,270-81-5279
+218,Nils,Denzey,3,Male,9/14/1937,8/5/2021,8/5/2020,Heart Disease,O-,485-57-9126
+219,Wallas,Waddilove,55,Non-binary,5/31/2013,6/23/2021,10/14/2020,Stroke,O-,145-65-6197
+220,Stacy,Todarello,49,Polygender,10/8/1900,9/13/2021,3/18/2020,Heart Disease,AB+,199-51-7574
+221,Orton,Heaton,105,Male,3/30/1945,11/25/2022,9/11/2020,Cancer,A+,871-35-3206
+222,Leanna,Hann,84,Female,7/5/1973,8/29/2021,3/15/2020,COVID-19,B+,417-81-2220
+223,Lynda,Chaudret,4,Female,7/2/1945,8/5/2021,4/6/2020,COVID-19,AB-,293-93-2044
+224,Friedrick,Yukhnin,76,Male,4/14/2012,10/18/2021,2/18/2020,COVID-19,B-,490-09-8464
+225,Leif,Crossthwaite,10,Male,4/20/2015,4/30/2022,10/30/2020,Diabetes,AB-,402-86-6884
+226,Arlyn,Butten,29,Female,4/24/1931,5/28/2022,12/14/2021,Cancer,A+,521-45-4304
+227,Chariot,Tolwood,85,Male,12/30/1993,12/20/2021,11/23/2020,Stroke,B+,242-53-2471
+228,Irita,Hugonneau,86,Female,12/11/1967,10/10/2021,1/13/2022,Stroke,B+,621-27-1283
+229,Andros,Grimoldby,118,Male,1/3/1909,3/31/2021,3/4/2022,COVID-19,B+,270-29-8909
+230,Bruce,Goldes,22,Male,3/20/2010,5/28/2022,5/5/2021,Cancer,O-,642-24-7488
+231,Almeria,Picopp,8,Female,5/26/2007,9/11/2020,10/17/2021,Diabetes,O-,445-41-0086
+232,Honey,Caunt,22,Female,6/5/1908,10/22/2022,9/7/2022,Heart Disease,O-,589-31-7608
+233,Buck,Mariolle,65,Male,9/8/1955,12/20/2020,8/21/2020,Diabetes,O-,816-82-2210
+234,Domini,Haward,109,Female,3/30/1946,6/29/2022,5/21/2022,Diabetes,B+,154-32-8034
+235,Tim,Clace,13,Female,10/28/1949,12/24/2020,12/23/2021,Cancer,B+,809-35-6105
+236,Frederique,Whybrow,29,Non-binary,9/1/2009,4/20/2021,7/4/2020,COVID-19,O-,216-61-7682
+237,Piper,Baskwell,112,Female,12/11/1963,11/7/2021,8/10/2022,Cancer,O-,772-35-2968
+238,Grata,Pound,60,Female,9/5/1945,11/22/2022,6/9/2021,Diabetes,B-,504-31-6199
+239,Eolande,Adolfsen,90,Non-binary,4/4/1945,6/6/2022,2/23/2020,Diabetes,O+,780-15-0075
+240,Leroy,Paxforde,90,Polygender,4/30/1908,7/24/2020,4/24/2020,Cancer,A-,557-27-9985
+241,Jerrilyn,Seide,69,Female,7/2/2017,9/24/2022,6/23/2022,Diabetes,O+,295-91-5422
+242,Fredrick,Kember,52,Male,7/17/1952,9/28/2021,12/25/2020,COVID-19,O-,848-17-7040
+243,Jillene,Radborn,36,Female,2/20/1962,6/11/2021,5/18/2022,Heart Disease,B+,394-79-7404
+244,Raoul,Stilgo,58,Male,6/15/1958,6/8/2021,4/5/2022,COVID-19,B+,810-05-4705
+245,Hamish,Westnage,46,Male,10/29/1998,7/12/2022,4/22/2020,Diabetes,AB-,114-47-7436
+246,Chev,Sussems,24,Male,1/13/1943,4/5/2020,8/22/2021,Heart Disease,A-,612-63-1453
+247,Auguste,Georgievski,73,Female,1/26/1983,12/6/2020,4/24/2022,COVID-19,O+,650-68-5922
+248,Lemuel,Fairebrother,79,Male,11/12/1915,9/20/2022,3/8/2021,COVID-19,B+,797-99-7692
+249,Julita,Alyukin,100,Female,11/7/1917,8/26/2021,12/3/2022,COVID-19,O+,165-72-7742
+250,Martynne,Possel,71,Female,5/7/1993,4/29/2022,6/2/2020,Diabetes,AB+,263-15-2660
+251,Claudina,Furmedge,4,Genderqueer,10/30/1990,3/2/2020,3/22/2021,Heart Disease,O+,478-34-5953
+252,Ardyth,Moxstead,68,Agender,1/24/2021,11/25/2022,8/15/2021,Diabetes,O-,703-44-4464
+253,Kimberlyn,Crannell,43,Female,4/16/2008,7/19/2022,10/28/2021,Diabetes,B-,700-70-2159
+254,Helenelizabeth,Paddock,52,Female,6/1/1991,1/22/2021,8/13/2022,Cancer,AB-,648-34-2248
+255,Tod,Hess,86,Male,9/10/1980,1/8/2021,1/3/2022,Stroke,O-,786-70-5316
+256,Rodi,Blaszkiewicz,44,Female,6/11/1979,8/10/2022,2/3/2021,Stroke,B-,726-13-2915
+257,Nolan,Du Barry,105,Male,9/25/1909,9/20/2020,11/27/2021,Heart Disease,B+,665-45-4721
+258,Faustina,Oherlihy,60,Polygender,3/7/2006,7/6/2020,2/4/2020,Stroke,A-,750-14-6722
+259,Dulci,Battie,28,Female,1/7/1950,10/22/2020,3/5/2021,Diabetes,A-,544-35-8424
+260,Angel,Kilborn,5,Female,7/20/1917,4/2/2020,4/9/2021,COVID-19,A-,271-15-0732
+261,Ian,Radford,43,Male,4/15/1996,10/22/2020,7/25/2022,Diabetes,A-,295-48-0022
+262,Gwenora,Eustanch,92,Female,1/6/1949,7/11/2022,12/11/2020,COVID-19,AB-,355-44-0823
+263,Jordanna,Umbers,114,Genderfluid,9/10/1976,6/14/2022,6/17/2022,Diabetes,A+,110-08-1397
+264,Barron,Peartree,69,Male,10/21/2016,1/29/2021,11/26/2021,Heart Disease,B+,525-15-7589
+265,Nari,Pitrasso,25,Female,11/11/1903,11/13/2022,9/23/2021,Stroke,A+,165-17-4302
+266,Denver,Reams,34,Male,8/23/2020,4/9/2022,6/17/2020,Cancer,B-,889-97-3073
+267,Roanna,Becket,58,Female,1/9/1935,4/26/2020,7/11/2022,Stroke,O+,886-69-5164
+268,Harry,Kinglesyd,119,Male,7/6/1950,11/8/2020,4/1/2020,Heart Disease,O-,150-72-1549
+269,Hamilton,Verity,49,Male,1/26/2019,5/6/2021,9/24/2021,Diabetes,B-,173-70-2846
+270,Stace,Manzell,42,Female,12/16/2021,12/29/2021,3/5/2021,Cancer,O+,731-50-8874
+271,Doralin,Western,100,Female,8/20/1948,3/27/2021,3/11/2021,Diabetes,A+,730-85-7865
+272,Lalo,Brunker,5,Male,1/22/1968,3/12/2020,2/20/2021,Stroke,AB-,755-67-9428
+273,Arri,Paley,17,Male,3/3/1924,3/1/2021,12/29/2021,Stroke,O-,748-92-2854
+274,Gaultiero,Minchinton,80,Male,5/27/1991,3/4/2021,6/12/2022,Cancer,AB+,472-85-1534
+275,Gail,Flaonier,27,Female,12/30/1962,11/18/2020,6/18/2021,Diabetes,B+,812-74-5251
+276,Betta,O' Borne,89,Female,4/10/1917,7/13/2021,7/6/2021,Stroke,O-,541-82-1336
+277,Rhodie,Khidr,6,Female,2/23/1903,4/15/2021,1/31/2020,Diabetes,AB+,803-56-4855
+278,Henrik,Hallgarth,16,Male,5/9/1984,3/1/2022,5/13/2020,Heart Disease,A+,460-26-6916
+279,Lory,Wadge,34,Female,6/6/2005,9/28/2020,7/25/2020,Cancer,AB-,696-19-0736
+280,Dionysus,Blampey,23,Male,12/10/1938,12/26/2021,6/20/2021,Diabetes,O-,648-68-4102
+281,Mal,Muttitt,46,Male,9/2/1906,9/5/2020,7/30/2020,Heart Disease,B+,564-69-5223
+282,Constantine,McAvaddy,15,Male,11/11/1992,3/25/2020,6/16/2020,COVID-19,A+,883-59-7425
+283,Rafaello,Innot,41,Male,1/30/1919,10/13/2022,6/25/2022,Diabetes,AB+,733-23-5802
+284,Dorthy,Bowman,20,Female,6/24/2013,8/2/2022,5/27/2022,Diabetes,AB-,173-92-0056
+285,Gretna,Ickovitz,41,Female,11/3/1954,9/25/2020,12/20/2022,Diabetes,AB+,823-19-4795
+286,Wilbur,Showt,63,Male,5/19/2020,12/1/2020,5/3/2022,COVID-19,B+,461-46-8029
+287,Sidney,Adel,65,Male,12/17/2002,12/12/2020,8/31/2021,Diabetes,AB+,309-27-2238
+288,Birch,Hlavac,16,Male,4/18/2010,4/19/2020,5/4/2022,Stroke,A+,203-56-0127
+289,Cello,Escala,22,Male,4/9/1976,9/30/2020,7/26/2020,Heart Disease,B-,471-48-3134
+290,Grady,McPherson,84,Male,12/19/1904,1/7/2022,4/30/2022,COVID-19,A+,479-60-0094
+291,Renault,Wilcockes,69,Male,2/6/2009,2/23/2021,11/25/2020,Heart Disease,A-,455-49-6033
+292,Terrijo,Kemmis,97,Female,10/19/1988,7/11/2022,7/15/2020,Cancer,A+,320-24-8856
+293,Vikki,Gascar,50,Female,12/28/1912,6/19/2020,3/24/2022,Cancer,B-,228-01-4258
+294,Clarabelle,Meharg,41,Female,3/23/1952,9/18/2021,3/30/2021,Cancer,AB-,899-72-6779
+295,Lezley,Elsmore,13,Male,7/4/1965,11/16/2021,11/28/2021,Heart Disease,AB+,176-51-3285
+296,Porter,Harmes,111,Agender,11/2/1924,10/7/2020,3/20/2021,COVID-19,AB+,599-50-4367
+297,Leupold,MacGorman,51,Male,4/14/1929,7/11/2022,4/19/2020,Diabetes,AB+,149-73-1236
+298,Joete,Banishevitz,103,Female,12/9/1943,6/21/2022,11/12/2021,Heart Disease,A-,758-98-0719
+299,Rufe,Kegan,98,Genderqueer,10/4/1948,7/20/2020,8/4/2022,Diabetes,O-,327-42-6970
+300,Lulita,Erratt,91,Female,7/25/1970,7/6/2022,9/2/2020,Stroke,AB+,697-15-9247
+301,Ricca,Patterson,115,Female,5/15/2000,11/4/2021,2/24/2020,Heart Disease,AB+,105-93-7945
+302,Vikki,Loblie,1,Female,11/4/1965,12/17/2022,3/23/2021,Diabetes,AB-,166-75-6083
+303,Red,Upward,91,Male,6/11/2008,8/10/2022,12/17/2021,COVID-19,AB-,501-61-0353
+304,Hedwig,Dumingos,53,Female,11/23/1976,12/25/2022,9/24/2022,Stroke,A-,593-16-7150
+305,Donnell,Danter,49,Male,1/20/1914,12/11/2022,3/2/2021,COVID-19,O-,827-89-1148
+306,Stevena,Chominski,6,Female,1/1/1983,7/1/2021,9/16/2021,Stroke,A+,254-09-4878
+307,Chalmers,Chander,120,Male,7/25/1993,12/3/2021,12/31/2020,Diabetes,O-,707-97-3095
+308,Sephira,Starcks,65,Female,2/14/2019,5/13/2022,11/12/2020,COVID-19,O-,394-49-9947
+309,Rockwell,Nigh,29,Male,10/20/1979,1/30/2022,3/2/2020,Cancer,A-,545-43-3492
+310,Frans,Egre,103,Male,4/5/2012,7/21/2020,8/25/2020,Diabetes,AB-,770-66-4553
+311,Nani,Vasilevich,95,Female,10/29/2012,1/25/2022,2/8/2022,COVID-19,O+,235-74-2174
+312,Barbara,Piatti,107,Female,7/4/1989,8/13/2021,7/12/2022,Stroke,B-,392-54-3897
+313,Tamiko,Fernanando,110,Female,9/21/1931,11/9/2021,8/7/2022,Cancer,AB-,536-55-2713
+314,Beale,Bettridge,110,Non-binary,4/5/1915,1/21/2022,11/1/2021,Diabetes,A+,892-60-3082
+315,Mead,Behrend,107,Male,1/22/1958,7/14/2022,6/16/2020,COVID-19,O-,628-71-1961
+316,Zola,Swanton,80,Female,6/2/1963,6/4/2021,3/3/2021,Cancer,AB+,586-54-2707
+317,Giselle,Presslee,23,Female,2/5/1923,1/29/2021,9/17/2022,Heart Disease,A-,596-17-6746
+318,Waldemar,Race,39,Male,10/6/2011,9/24/2022,9/11/2022,Diabetes,AB+,424-83-0731
+319,Ollie,Shailer,44,Female,11/8/1968,12/31/2021,4/14/2020,Stroke,A-,825-31-8948
+320,Jan,Mathwen,32,Female,6/26/1977,12/12/2021,6/18/2022,Cancer,AB-,809-67-9115
+321,Cassandre,Pfleger,13,Female,10/6/1990,3/9/2020,8/20/2020,Diabetes,A+,371-11-6521
+322,Anallise,Siburn,44,Female,10/2/1916,9/30/2022,10/17/2022,Stroke,O+,128-73-3018
+323,Ellissa,Stolze,108,Female,11/8/1923,11/3/2020,7/10/2020,Stroke,A-,834-26-3823
+324,Antony,Keeri,43,Male,8/7/1941,8/5/2022,9/28/2021,COVID-19,A+,663-22-8446
+325,Claudie,Kopmann,51,Female,2/15/1994,1/7/2022,5/21/2021,Cancer,B-,887-35-1443
+326,Griffy,Braddick,38,Male,9/29/1914,7/24/2022,1/28/2022,Stroke,AB-,540-03-3870
+327,Allis,Lambert-Ciorwyn,86,Female,8/16/1993,5/23/2021,8/2/2022,Stroke,A+,202-55-7737
+328,Hillel,Lowers,52,Male,7/30/1914,12/23/2020,8/19/2021,Stroke,A+,707-71-1627
+329,Byran,Limer,115,Male,7/12/1942,4/4/2021,3/6/2022,COVID-19,AB-,252-67-1210
+330,Rhianna,Swannack,77,Female,7/9/1936,10/15/2021,5/6/2020,Stroke,AB-,127-01-1203
+331,Augusta,Trittam,104,Polygender,7/28/1944,3/2/2021,8/31/2022,Heart Disease,A-,360-31-3721
+332,Sadie,Rawsen,105,Female,7/16/1968,6/7/2021,1/14/2021,Stroke,B-,589-15-6916
+333,Kevin,Sleit,33,Bigender,11/20/1919,4/23/2020,3/8/2022,Stroke,AB-,322-96-4746
+334,Lauritz,Omar,43,Male,10/25/2017,8/4/2021,12/11/2020,Heart Disease,A-,488-42-4638
+335,Clarence,Mitchell,38,Male,4/27/2011,12/27/2021,11/6/2020,Stroke,B+,518-16-7275
+336,Brittani,Hallatt,20,Female,10/16/2004,7/22/2021,2/4/2022,COVID-19,A-,284-86-7739
+337,Joline,McCaw,55,Female,5/28/1964,4/3/2022,10/15/2022,Cancer,O+,300-32-8277
+338,Aidan,Tubritt,93,Genderqueer,8/26/2016,6/5/2021,10/2/2022,Cancer,O+,642-34-8947
+339,Rosco,Mayston,28,Male,4/4/1916,7/20/2022,2/24/2020,Cancer,O-,563-26-6474
+340,Jake,Duthie,99,Male,4/15/1993,5/3/2020,8/27/2022,COVID-19,AB-,271-18-7758
+341,Lisle,Koppe,4,Male,9/18/1902,8/19/2022,7/24/2020,Heart Disease,AB+,474-62-5217
+342,Mellicent,Seyffert,45,Female,6/4/1915,6/29/2021,8/15/2020,Cancer,O-,782-35-8094
+343,Othello,Harkins,11,Male,9/4/1913,12/30/2020,2/6/2020,Diabetes,O-,305-33-7490
+344,Rosie,Jacqueme,53,Female,12/27/2001,7/13/2022,6/24/2021,Heart Disease,A+,214-12-7698
+345,Whitman,Knutsen,28,Male,4/20/1952,5/5/2020,9/3/2020,Heart Disease,AB+,772-94-9206
+346,Morry,Dmych,76,Male,5/25/1980,10/6/2022,8/6/2021,Cancer,O-,620-21-6600
+347,Lyndsey,Bance,3,Female,2/20/1942,1/4/2021,10/19/2021,Heart Disease,O-,483-25-0624
+348,Noe,O'Loughane,86,Male,4/14/1960,2/23/2020,10/10/2022,Diabetes,A+,682-65-9982
+349,Jena,Deary,101,Female,7/28/1926,2/2/2021,8/13/2021,Stroke,O-,561-93-9747
+350,Tatiana,Garvey,89,Female,2/10/1999,8/8/2022,10/8/2021,Heart Disease,A+,153-25-1051
+351,Bernie,McDonand,55,Female,5/6/1978,1/15/2022,4/18/2021,Stroke,AB-,293-51-8348
+352,Lisa,Digg,101,Female,5/26/1952,11/21/2020,11/28/2022,Stroke,B-,319-56-7684
+353,Bartolomeo,Ledster,73,Male,7/27/1973,1/28/2020,2/23/2022,Heart Disease,AB-,177-36-5495
+354,Nonie,McElory,20,Female,7/31/1999,9/20/2021,1/16/2022,COVID-19,O-,616-18-6823
+355,Esteban,Baldung,76,Male,12/7/1988,4/21/2022,2/23/2022,COVID-19,B-,469-18-5184
+356,Stanleigh,Ribey,32,Genderqueer,7/8/2017,3/2/2022,11/30/2022,Cancer,A-,545-59-8508
+357,Jazmin,Jotham,71,Female,6/23/1945,2/20/2021,4/30/2021,Heart Disease,AB+,486-91-0785
+358,Hanny,Beggini,57,Female,7/7/1982,3/7/2022,5/15/2020,Cancer,AB+,335-86-2528
+359,Rutledge,Sutherns,4,Male,1/26/1959,2/11/2021,9/1/2020,Heart Disease,A-,141-50-3992
+360,Ynes,Feeney,73,Female,6/11/2019,5/3/2020,11/28/2020,Cancer,O+,377-61-3389
+361,Whittaker,Watsham,92,Male,1/26/1952,1/13/2021,3/15/2020,COVID-19,A-,191-42-0653
+362,Petronille,Sansam,101,Female,11/24/1930,7/27/2022,1/28/2020,Heart Disease,A-,616-55-4577
+363,Estrella,Charlewood,82,Female,7/29/1986,4/22/2021,11/13/2021,Cancer,AB+,191-05-2706
+364,Ira,Budget,53,Female,7/20/1959,1/25/2021,7/24/2020,Heart Disease,AB-,777-83-9603
+365,Merrie,Goundsy,114,Female,7/24/1904,5/17/2021,3/7/2020,Cancer,AB-,187-02-6161
+366,Con,Standingford,30,Genderqueer,11/1/1989,6/2/2022,3/6/2021,COVID-19,B+,421-13-1858
+367,Giorgia,Basile,118,Agender,3/25/1951,6/30/2022,4/16/2020,Diabetes,O-,764-50-0644
+368,Jeremie,Moodey,19,Male,10/25/1962,9/6/2020,10/19/2022,COVID-19,A-,670-15-2702
+369,Greg,Stilwell,98,Male,12/6/1977,3/24/2022,6/19/2020,Stroke,O+,263-65-6561
+370,Blair,Paeckmeyer,99,Male,3/12/1960,7/26/2022,3/4/2022,COVID-19,O-,867-09-7021
+371,Morris,Kirwin,108,Male,8/24/1940,5/30/2021,7/24/2020,Stroke,O+,369-53-5062
+372,Goddard,Dabes,84,Male,5/12/2018,8/9/2021,8/30/2022,Heart Disease,O-,760-48-6830
+373,Heindrick,Kienl,80,Male,11/27/1956,9/9/2022,7/13/2022,COVID-19,AB-,897-62-4659
+374,Kira,Scargle,25,Polygender,11/10/1968,8/3/2020,3/1/2021,Heart Disease,B+,837-35-9611
+375,Celestina,Farndon,34,Female,8/5/1973,9/9/2021,6/14/2021,Diabetes,B+,237-99-8061
+376,Craggy,Caudle,14,Male,7/18/1945,2/13/2021,11/25/2021,Stroke,B+,668-24-7282
+377,Diego,Escala,18,Male,10/13/1946,6/8/2022,9/1/2021,COVID-19,AB-,733-46-1590
+378,Yolanda,Foddy,8,Female,10/25/1971,2/12/2021,3/22/2021,Diabetes,AB-,716-55-5876
+379,Conchita,Whitters,15,Female,5/26/1958,7/11/2020,1/3/2022,Stroke,O+,404-53-6912
+380,Renault,Goney,10,Male,2/23/1998,10/2/2020,3/27/2022,Cancer,AB+,263-35-8615
+381,Caz,Oldacres,42,Male,12/17/2013,5/11/2021,6/4/2021,Cancer,O-,409-50-0956
+382,Guillaume,Elliker,33,Male,10/9/2003,8/13/2022,3/17/2020,COVID-19,B+,878-72-8855
+383,Skye,Stace,88,Male,1/30/1936,12/11/2021,4/24/2020,COVID-19,A+,180-65-1405
+384,Beau,Lebel,63,Male,8/4/1949,9/12/2021,5/19/2022,Diabetes,B+,415-85-3887
+385,Dicky,Tackell,13,Male,7/18/1970,12/12/2020,8/25/2020,Cancer,O-,895-53-1820
+386,Sydel,Walesby,17,Female,12/31/1910,5/22/2020,5/10/2021,Cancer,O+,691-48-7441
+387,Elroy,Deas,62,Male,12/16/1927,4/6/2021,7/19/2022,COVID-19,B-,613-32-7081
+388,Tamar,Addlestone,44,Female,1/30/1929,3/3/2020,7/19/2022,COVID-19,O+,199-10-6100
+389,Allx,Churchley,34,Female,1/14/1997,12/29/2022,2/12/2022,Diabetes,A+,290-89-7665
+390,Stillmann,Clare,51,Male,2/6/1960,8/9/2022,11/10/2022,Cancer,O+,462-19-6829
+391,Gunner,Van den Broek,96,Male,11/23/1988,12/11/2022,6/2/2021,Diabetes,O-,432-93-3818
+392,Daren,Sewley,97,Genderfluid,7/22/1929,11/14/2021,10/15/2020,Cancer,A-,324-18-7617
+393,Mattie,Michallat,97,Male,5/29/2009,6/27/2021,11/20/2020,Heart Disease,A-,851-08-7254
+394,Betteanne,McKelvie,85,Female,7/6/2013,8/1/2022,7/29/2021,Heart Disease,O-,422-27-8651
+395,Gard,Mc Caghan,98,Non-binary,5/3/1987,2/7/2021,11/23/2021,Diabetes,AB-,157-12-1487
+396,Erika,Goudge,44,Female,2/13/1906,11/24/2021,5/7/2020,Diabetes,AB+,203-79-8333
+397,Justus,McCorkindale,111,Male,1/11/2014,1/13/2022,2/11/2022,Diabetes,A+,676-47-5438
+398,Griswold,Philimore,40,Male,1/30/1902,10/29/2020,1/25/2022,Heart Disease,O+,132-30-0218
+399,Brigg,Mustoo,13,Male,5/1/1904,4/30/2021,10/4/2021,Heart Disease,O+,266-09-5982
+400,Kristan,Pagnin,92,Female,4/28/1931,2/16/2022,3/26/2020,Cancer,A+,797-47-2966
+401,Booth,Avrahamov,120,Male,1/2/1904,4/4/2022,5/11/2021,Heart Disease,O+,660-52-0651
+402,Kitty,Holdin,62,Female,12/15/2016,7/5/2022,11/17/2022,Cancer,AB-,695-58-1405
+403,Libbey,Honeyghan,32,Female,8/16/1903,1/16/2021,7/23/2021,Cancer,A-,313-12-3219
+404,Morly,Bythway,100,Male,8/9/2005,2/21/2022,3/20/2022,Heart Disease,B+,308-16-1385
+405,Carce,Hayto,100,Male,1/13/1954,6/4/2020,2/4/2021,Heart Disease,AB+,838-44-9914
+406,Joelynn,de Verson,15,Agender,10/26/1928,5/14/2022,7/31/2022,Stroke,B-,154-40-5322
+407,Bria,Bjerkan,76,Female,4/5/1920,11/27/2022,2/15/2021,Cancer,B+,563-48-2623
+408,Bryn,Loftin,45,Female,8/8/1952,7/16/2022,3/23/2022,COVID-19,B-,330-94-7081
+409,Cecilius,McClenaghan,36,Non-binary,7/2/1916,12/22/2021,12/6/2021,Stroke,B-,501-08-0183
+410,Myriam,Duffil,111,Female,4/15/1953,4/10/2021,11/15/2020,Stroke,A+,790-66-0575
+411,Agretha,Bauchop,12,Female,10/29/1981,1/1/2021,3/19/2022,COVID-19,AB-,537-14-5929
+412,Angelina,Adolf,0,Female,12/27/1979,10/20/2022,10/20/2021,Cancer,B+,217-35-0261
+413,Flori,Audritt,68,Female,7/21/1986,8/28/2022,6/7/2021,Diabetes,B+,474-25-4273
+414,Jens,Bernardoni,10,Male,2/20/2002,9/17/2020,12/11/2020,Diabetes,O-,540-10-7920
+415,Kleon,Labbez,53,Male,3/14/1989,7/30/2021,10/15/2022,Cancer,O+,813-95-7299
+416,Hendrik,Cleall,5,Male,4/10/1949,3/30/2022,3/26/2022,Diabetes,A+,644-35-3171
+417,Giles,Yakushkin,16,Male,8/19/1977,2/21/2020,9/10/2020,Stroke,O+,498-67-2148
+418,Menard,Miebes,5,Male,11/13/1987,5/8/2021,8/25/2022,Diabetes,B-,696-37-4194
+419,Nata,Hamlett,108,Female,4/28/1911,8/3/2021,3/17/2022,COVID-19,A+,566-47-3427
+420,Starla,Pate,38,Female,2/13/2016,4/29/2020,10/23/2021,Cancer,B-,746-66-2363
+421,Darsie,Cumberpatch,43,Female,1/27/2010,11/19/2022,9/7/2022,Heart Disease,B+,745-55-5888
+422,Dorelia,Maylin,85,Female,7/29/1973,7/3/2022,5/27/2022,Cancer,O+,786-34-0835
+423,Perla,Marin,77,Female,3/13/2018,7/19/2020,12/12/2020,Stroke,A-,413-44-7632
+424,Idalia,Cale,10,Female,6/17/1962,5/22/2022,8/12/2022,Diabetes,B-,812-61-5012
+425,Brit,Haglinton,50,Male,10/19/2011,1/3/2020,8/6/2020,Heart Disease,O+,877-82-4962
+426,Eloisa,Hefferon,110,Female,5/18/1983,8/23/2022,3/17/2021,COVID-19,O-,642-72-4734
+427,Constantin,Dudlestone,27,Male,1/10/1927,3/18/2020,9/15/2021,Stroke,O-,407-02-4211
+428,Brietta,Volette,63,Female,4/19/1955,12/24/2021,10/21/2021,Cancer,B-,138-34-5188
+429,Aymer,Pyecroft,68,Male,8/2/1922,10/23/2021,7/10/2020,Cancer,O-,457-64-7330
+430,Thaxter,Fouracre,101,Polygender,8/7/1930,11/20/2020,11/4/2020,Cancer,B+,425-02-2957
+431,Lonee,Shark,4,Female,4/2/1928,12/1/2021,5/12/2021,Diabetes,A+,308-75-6163
+432,Eba,Maccraw,111,Female,7/13/1956,12/30/2022,3/1/2022,COVID-19,O-,322-58-6655
+433,Kele,McCreedy,108,Male,11/11/2018,1/18/2020,9/21/2020,Cancer,A+,298-01-9594
+434,Gaylene,Stoite,13,Female,6/24/1940,7/2/2020,11/6/2020,Cancer,AB-,129-31-0405
+435,Constantina,Gilbard,47,Female,3/24/1986,3/16/2022,10/21/2021,Cancer,A+,832-65-0566
+436,Phil,Vynehall,29,Male,7/15/1922,11/29/2020,1/6/2020,Diabetes,O-,412-78-2627
+437,Addy,Tolson,63,Male,11/20/1991,5/8/2022,10/19/2021,Stroke,O-,768-32-4416
+438,Cindie,Duddin,108,Female,7/23/1903,4/15/2022,1/30/2020,COVID-19,O+,355-50-0478
+439,Deedee,Bartels,46,Female,9/29/1957,7/8/2022,11/18/2022,Stroke,AB+,230-53-6806
+440,Fleming,Campelli,23,Male,8/18/1973,7/9/2021,9/17/2021,Heart Disease,O-,121-36-7377
+441,Miguelita,Buckam,43,Female,11/23/1929,11/27/2020,5/30/2020,Stroke,B-,842-30-6122
+442,Blondelle,Huntress,38,Female,6/15/1911,8/30/2022,10/3/2021,COVID-19,O+,599-01-7461
+443,Valentia,Hatterslay,27,Female,11/11/1981,8/17/2020,8/18/2021,Heart Disease,O-,456-74-6705
+444,Urban,Grimstead,105,Male,12/20/1926,7/25/2020,12/23/2020,Cancer,O+,841-72-2276
+445,Gail,Amsberger,54,Female,6/29/1919,3/25/2020,11/29/2022,COVID-19,AB+,204-49-9527
+446,Cornelia,Noller,106,Female,5/30/1967,6/14/2020,1/21/2020,COVID-19,A-,114-53-2903
+447,Shaun,Lauritsen,120,Female,10/26/1902,8/7/2020,5/27/2022,Cancer,O+,872-75-3554
+448,Una,Cowburn,90,Female,11/11/1952,4/2/2022,6/9/2022,COVID-19,A+,167-63-2033
+449,Krystle,Boydle,87,Female,10/23/1989,10/13/2021,1/18/2022,Stroke,O-,544-19-8975
+450,Tanya,Solomon,107,Female,11/27/1977,1/18/2022,8/21/2022,Cancer,A-,555-06-3143
+451,Xylina,Gerard,34,Female,1/21/2008,7/23/2021,6/30/2020,Stroke,AB+,389-36-4178
+452,Terri-jo,O'Hern,15,Female,12/16/1993,6/1/2022,2/17/2022,Stroke,B+,524-40-4757
+453,Nikolai,Schuchmacher,17,Male,2/11/1966,4/8/2021,9/28/2022,Diabetes,B-,104-54-4795
+454,Jacob,Bauldrey,69,Male,12/11/1922,7/14/2022,9/25/2020,COVID-19,A-,532-82-7802
+455,Cull,Bonafacino,26,Male,3/23/1938,5/22/2020,7/14/2022,Heart Disease,O-,617-81-6493
+456,Flin,Beeck,81,Male,5/31/2019,2/21/2022,3/24/2020,Heart Disease,A-,823-08-2975
+457,Temple,Gillcrist,77,Male,5/9/1976,3/27/2021,9/6/2021,Heart Disease,AB-,429-03-1803
+458,Dallas,Vasilyevski,48,Male,5/15/1985,8/9/2021,1/11/2020,COVID-19,AB-,712-65-5855
+459,Georgette,Maro,83,Female,3/10/2021,2/16/2020,9/19/2022,Cancer,O+,220-69-3778
+460,Nollie,Tizard,50,Female,11/24/1987,3/21/2020,4/12/2022,Stroke,AB-,286-53-2701
+461,Benoit,Hallt,99,Male,6/3/2001,1/7/2021,4/27/2021,Diabetes,B-,539-71-1130
+462,Petronille,Mewett,30,Polygender,1/13/1911,1/27/2020,12/16/2022,Cancer,AB+,865-33-4795
+463,Helaina,Huertas,52,Female,4/30/1998,11/15/2020,12/16/2021,Diabetes,A-,769-37-9693
+464,Maynard,Ferrino,62,Male,10/17/1967,11/15/2021,2/25/2020,COVID-19,AB+,435-79-8214
+465,Millisent,Collibear,24,Female,12/31/1984,10/28/2022,6/12/2021,Heart Disease,AB-,688-26-2921
+466,Lola,Longhurst,57,Female,4/2/1931,3/30/2020,11/15/2022,COVID-19,A-,164-17-7064
+467,Morissa,Saffin,36,Female,4/15/1903,9/11/2021,1/13/2021,Cancer,A+,559-69-6282
+468,Aggie,Peto,11,Female,3/31/2018,1/14/2022,7/8/2022,Heart Disease,B-,158-58-4566
+469,Euphemia,Froude,23,Female,9/9/2010,3/13/2020,1/25/2021,Diabetes,A+,194-72-8830
+470,Toinette,Dundendale,110,Female,5/1/1975,2/16/2022,11/16/2021,COVID-19,AB-,472-97-5549
+471,Merla,Graveson,98,Female,6/19/2020,8/4/2021,9/19/2021,Stroke,AB-,197-36-7695
+472,Aline,Coke,50,Female,4/7/2003,5/12/2022,11/28/2022,COVID-19,B+,127-21-1990
+473,Meredeth,Josofovitz,103,Male,11/29/2013,5/23/2020,9/8/2020,COVID-19,B-,186-24-2258
+474,Jonis,Matczak,117,Non-binary,10/28/1902,7/11/2021,7/27/2020,Cancer,AB+,873-37-3849
+475,Jen,Clinnick,88,Female,1/30/2018,5/12/2022,12/12/2020,Cancer,O-,646-57-6961
+476,Dorian,Lukes,19,Female,4/15/1925,9/1/2021,4/15/2022,COVID-19,AB+,249-52-9159
+477,Ernestine,Willimot,57,Female,5/26/1986,8/22/2020,4/9/2021,Heart Disease,A-,236-36-9157
+478,Nat,Lighton,34,Male,11/11/1927,3/10/2020,10/13/2020,Cancer,B-,454-63-5636
+479,Dennis,Valentim,62,Male,2/18/1980,9/12/2021,11/18/2020,Diabetes,O+,421-33-4020
+480,Fair,Batchley,37,Male,2/9/1908,1/14/2021,5/30/2022,Diabetes,AB-,424-88-4358
+481,Niven,Heppenspall,40,Male,1/21/1904,3/5/2022,10/11/2021,Diabetes,B+,497-49-2560
+482,Bradford,Maginot,61,Bigender,4/24/1933,3/17/2022,7/1/2022,Cancer,A-,710-16-4090
+483,Theresina,Piris,39,Non-binary,4/7/1901,4/26/2022,7/7/2020,Diabetes,B+,531-32-3470
+484,Myriam,Tugwell,63,Female,4/18/2012,8/9/2021,2/27/2020,Heart Disease,B+,115-99-4376
+485,Magdalena,Olek,35,Female,10/11/2009,9/1/2021,5/7/2022,COVID-19,A-,160-06-1669
+486,Geoff,Juara,13,Male,4/4/1987,7/16/2020,5/12/2021,Cancer,A-,573-30-3562
+487,Hugh,Sandry,47,Male,10/22/1914,12/14/2020,4/11/2020,Diabetes,B+,430-32-3794
+488,Kalle,Limeburner,94,Male,3/25/2022,3/14/2022,3/28/2020,Cancer,B-,881-09-0642
+489,Karissa,Dolman,65,Female,4/11/1927,9/19/2020,1/7/2021,Heart Disease,AB-,630-47-2459
+490,Liana,Cracknell,38,Agender,8/16/1969,5/4/2020,5/16/2022,Diabetes,AB+,406-21-4405
+491,Philip,Boodell,35,Male,2/21/1953,11/21/2022,9/7/2020,Stroke,AB-,278-83-3303
+492,Teressa,De Cleyne,42,Female,12/20/1985,8/15/2022,7/31/2020,Stroke,O+,163-42-0299
+493,Thorny,Dowles,7,Male,5/16/1947,12/20/2020,8/18/2020,COVID-19,O+,775-66-2571
+494,Port,Burgisi,52,Male,5/30/1905,5/30/2021,11/29/2022,Cancer,AB-,607-70-9797
+495,Rudie,Keggin,109,Male,1/21/1920,9/13/2021,4/20/2021,Heart Disease,A+,573-28-7275
+496,Patricio,Puckett,65,Male,6/17/1996,3/4/2022,11/5/2022,Heart Disease,A-,438-57-4499
+497,Sibylle,MacAlester,24,Female,7/10/2000,11/5/2022,4/3/2022,Cancer,B+,880-58-7047
+498,Clyve,Rickards,37,Male,10/9/1942,12/24/2020,5/1/2020,Cancer,AB-,468-40-1855
+499,Neill,Setterfield,50,Male,10/23/1908,10/23/2022,8/25/2021,Diabetes,O+,355-40-9658
+500,Brandy,McTurlough,92,Genderqueer,1/30/1942,8/21/2020,5/15/2021,Diabetes,AB-,588-08-2580
+501,Paulie,Gemelli,82,Male,5/4/1970,8/26/2021,3/29/2021,Cancer,A-,417-81-5542
+502,Lanie,McCotter,79,Female,7/23/1994,2/20/2021,3/1/2021,Heart Disease,O+,400-82-8031
+503,Riane,Wannell,2,Female,5/7/1942,11/29/2020,2/25/2022,Cancer,A-,528-13-3461
+504,Ollie,Larmett,97,Female,5/29/1956,5/3/2022,5/1/2021,Diabetes,AB-,554-91-4274
+505,Bonnibelle,Harnor,56,Female,1/14/2011,4/8/2021,6/3/2021,Stroke,B+,707-16-7024
+506,Jess,Zuanelli,10,Female,5/30/1998,11/14/2022,9/18/2022,Cancer,B+,439-94-9700
+507,Jolene,Durran,97,Female,12/4/2018,10/25/2022,1/3/2021,Diabetes,O+,357-84-5018
+508,Aland,Fochs,88,Male,1/21/2017,12/26/2022,7/18/2020,Diabetes,O-,100-30-7514
+509,Mamie,Brick,34,Female,11/3/1990,6/12/2021,9/22/2022,Stroke,AB+,822-04-2833
+510,Chloe,Mattes,61,Female,9/7/1995,6/4/2022,10/14/2021,Diabetes,B+,203-72-9895
+511,Zeb,Barbera,1,Male,3/24/1970,1/25/2021,10/29/2021,Diabetes,A+,376-94-6483
+512,Chuck,Martinet,9,Male,6/28/1985,3/13/2022,3/9/2020,Diabetes,O+,888-08-8817
+513,Lazarus,Thomen,83,Male,10/9/1998,5/4/2020,3/5/2022,Diabetes,A+,102-96-3108
+514,Arvie,Imms,6,Male,6/14/1958,9/6/2022,8/8/2021,Cancer,B-,548-64-8558
+515,Arlana,Asipenko,94,Female,2/9/1955,2/26/2020,11/3/2022,Heart Disease,A+,892-42-4997
+516,Germain,Clucas,114,Female,5/11/1975,1/26/2020,5/5/2020,Cancer,B-,236-60-1482
+517,Nannie,Putson,44,Female,10/5/2005,9/4/2020,3/2/2022,Heart Disease,A-,612-15-2097
+518,Moritz,Baskett,71,Male,11/10/1931,7/31/2020,6/14/2020,Heart Disease,B-,585-40-8395
+519,Glenn,Pemberton,5,Female,8/15/1969,1/7/2021,1/30/2021,COVID-19,AB+,721-05-7829
+520,Nada,Parmley,111,Female,9/19/1962,4/7/2021,4/1/2020,Cancer,O+,750-82-1730
+521,Sofia,Burress,72,Female,8/9/1912,11/28/2022,8/9/2021,Cancer,O+,836-94-2375
+522,Larina,Cabrales,38,Female,8/26/1902,10/14/2022,5/17/2021,Diabetes,B-,443-89-4529
+523,Cointon,Gainsboro,31,Male,3/18/1994,8/15/2021,11/7/2021,Cancer,O-,589-13-3632
+524,Courtnay,Goodale,4,Male,11/9/2001,1/24/2020,6/28/2021,Diabetes,AB-,188-21-0790
+525,Cosme,Hallbord,117,Male,12/21/1988,8/24/2022,6/3/2020,Diabetes,O-,142-99-9343
+526,Rozina,Burk,23,Female,12/14/1983,5/7/2020,5/20/2022,Stroke,B+,379-85-3351
+527,Edita,Simonitto,31,Female,6/25/2006,12/30/2021,10/30/2020,Heart Disease,B+,438-05-5422
+528,Rutter,Castillo,73,Genderqueer,4/5/1943,1/30/2021,9/15/2022,Stroke,A+,727-59-6073
+529,Tatiana,Tourner,97,Female,3/5/1900,2/26/2020,4/18/2021,Heart Disease,B+,863-10-5796
+530,Agathe,Zanicchelli,2,Female,3/28/1904,10/22/2020,6/24/2021,Cancer,B+,433-63-9821
+531,Joyann,Duckerin,108,Female,11/4/1973,9/19/2022,2/25/2022,Diabetes,B-,521-36-5301
+532,Brocky,Livick,118,Male,5/12/2005,3/18/2021,10/28/2022,Cancer,O+,730-46-4523
+533,Oliy,Krause,10,Female,7/8/1995,12/25/2021,3/23/2021,Cancer,O+,477-98-8050
+534,Cindy,Boarder,1,Female,9/10/2010,10/8/2022,4/25/2021,Cancer,B+,720-15-1185
+535,Alon,Silversmid,30,Male,9/6/1936,4/19/2021,11/13/2021,COVID-19,A+,751-01-1803
+536,Kessia,Saintsbury,35,Female,11/25/1995,9/9/2022,7/18/2022,Diabetes,B+,304-92-7552
+537,Rollin,Robertsson,21,Male,7/14/1934,2/22/2020,4/5/2022,Stroke,O-,238-19-7731
+538,Jameson,Dametti,91,Male,5/29/2000,3/14/2021,5/9/2021,Diabetes,AB+,619-80-2203
+539,Suzanna,McSkin,27,Female,5/9/1992,7/7/2020,2/24/2021,Stroke,O+,667-61-2941
+540,Catriona,Chritchlow,54,Female,5/30/1989,11/20/2020,12/8/2021,Cancer,AB+,699-97-5225
+541,Bunny,Deehan,28,Female,5/17/1985,5/3/2020,11/27/2020,Diabetes,AB+,165-80-3929
+542,Chelsae,Linzee,50,Female,12/23/1926,7/24/2020,9/21/2022,Heart Disease,AB+,603-30-1643
+543,Adrian,Sefton,93,Female,4/8/1993,12/7/2020,9/22/2020,Diabetes,O-,376-60-9368
+544,Mirelle,Colbourne,86,Female,3/14/1992,12/4/2022,6/26/2022,COVID-19,A+,402-21-3219
+545,Claudell,Rodolf,118,Male,5/19/2002,11/9/2022,4/8/2021,Heart Disease,B+,344-58-6967
+546,Kimble,Dradey,109,Male,11/4/1923,7/1/2021,3/10/2022,Stroke,B-,334-96-3236
+547,Vincenty,MacColl,79,Male,8/18/1931,12/2/2021,7/26/2021,Cancer,AB+,284-75-8494
+548,Rosalyn,Tiffany,73,Female,1/31/1908,12/2/2022,6/12/2021,Cancer,B-,184-82-7310
+549,Gabriel,Perry,64,Male,12/22/1923,4/7/2022,9/11/2020,Diabetes,AB-,232-50-3600
+550,Helyn,Genge,105,Female,4/27/2007,2/24/2020,9/27/2020,Cancer,O+,701-73-0813
+551,Lynea,Bremmell,13,Female,6/21/1944,9/12/2022,7/8/2021,Cancer,B-,631-35-3101
+552,Kora,Kettlestringe,75,Female,7/27/1926,4/1/2020,3/21/2020,Cancer,A+,308-72-5039
+553,Jeromy,Pietruszka,101,Male,6/9/2016,9/5/2022,6/3/2022,COVID-19,A+,506-17-2683
+554,Hershel,Ales0,41,Male,1/20/1965,11/28/2021,4/26/2022,Cancer,O+,497-65-2763
+555,Imogen,Fryer,17,Female,7/14/1906,5/10/2022,3/10/2021,Heart Disease,B+,270-78-6434
+556,Teddie,Gascoigne,4,Non-binary,8/27/1944,10/30/2022,1/23/2022,Heart Disease,O-,327-95-4688
+557,Daffi,Sier,5,Female,7/1/1915,4/4/2022,6/30/2021,COVID-19,B+,584-70-8549
+558,Alexandre,Sollas,52,Male,5/12/1956,1/4/2022,3/1/2020,Cancer,AB-,806-84-2265
+559,Trina,Weatherburn,59,Female,2/10/1977,12/10/2020,2/19/2021,Heart Disease,O-,762-44-5244
+560,Dominick,July,65,Genderfluid,8/15/1965,5/28/2022,8/4/2020,Diabetes,B+,332-94-9248
+561,Ximenes,Greendale,22,Male,12/9/1921,1/28/2020,10/2/2021,Heart Disease,B+,853-48-3619
+562,Marla,North,55,Female,1/17/1950,1/31/2021,11/23/2020,COVID-19,A+,358-99-9688
+563,Didi,Malecky,107,Genderqueer,12/14/1953,1/5/2020,8/18/2021,COVID-19,O+,618-43-9327
+564,Perice,Locket,9,Male,2/24/2009,6/1/2021,6/17/2022,Stroke,A+,204-50-2816
+565,Marcellina,Stammer,42,Bigender,11/2/1996,9/7/2021,8/7/2020,Heart Disease,O+,419-49-0751
+566,Rogers,Nobles,67,Male,8/3/1980,12/11/2022,5/23/2022,Cancer,B-,874-42-8835
+567,West,Lorden,61,Male,1/20/1903,6/19/2022,1/18/2020,Stroke,O-,494-38-0261
+568,Calhoun,Corryer,83,Genderqueer,3/3/1930,4/15/2021,12/11/2022,COVID-19,A-,100-22-0372
+569,Stephenie,Smurfit,52,Female,10/22/1915,6/14/2020,7/7/2021,COVID-19,B+,549-50-8000
+570,Jennee,Hannabuss,36,Female,3/2/1959,4/30/2022,2/4/2022,COVID-19,O-,204-96-2503
+571,Alan,Stoggell,61,Male,2/25/1964,10/21/2022,6/9/2022,COVID-19,A+,248-52-8372
+572,Hersch,Fannon,117,Male,9/26/1999,9/20/2020,9/5/2020,COVID-19,AB-,380-21-0657
+573,Ashely,Morando,7,Female,9/19/1961,11/18/2022,5/20/2021,Diabetes,B+,482-50-1027
+574,Cathie,Scoon,100,Female,8/2/1949,9/12/2022,3/2/2022,Diabetes,AB-,699-97-1574
+575,Alethea,McPeice,61,Female,9/25/1917,3/18/2020,4/19/2020,Stroke,AB+,334-95-3893
+576,Willetta,Godley,92,Female,11/7/1911,2/15/2022,5/22/2021,Diabetes,A-,797-63-2079
+577,Maurise,Fuller,114,Female,4/21/2005,2/23/2022,1/30/2020,COVID-19,A-,170-12-4977
+578,Lucien,Giannazzi,91,Male,9/15/1955,5/8/2022,2/20/2020,COVID-19,B-,312-74-2798
+579,Alfons,Kwietek,49,Genderfluid,9/1/1903,10/14/2022,6/28/2021,Stroke,AB-,143-53-3303
+580,Joshia,Archbald,18,Male,3/15/1905,7/28/2022,2/10/2022,Stroke,AB-,378-49-8615
+581,Theodora,Bygraves,95,Female,2/15/1947,6/18/2020,5/4/2021,Cancer,O+,532-34-8041
+582,Alvy,Miles,18,Male,11/18/1959,1/1/2020,10/29/2022,Stroke,B+,197-17-3628
+583,Alida,Grew,54,Female,8/28/1967,8/31/2022,2/5/2020,Cancer,B+,180-15-0793
+584,Sebastian,Worlock,60,Male,6/2/1998,6/23/2022,2/3/2020,Stroke,A+,677-25-3739
+585,Luci,Bedburrow,21,Female,9/28/1969,5/28/2020,6/8/2020,Heart Disease,B-,758-10-8490
+586,Chrysler,Scollard,4,Female,2/28/1900,8/5/2022,8/20/2022,Diabetes,O-,780-67-0069
+587,Dewie,McCumskay,51,Male,3/12/1940,5/15/2022,5/5/2021,Cancer,B-,294-02-4708
+588,Abeu,Montrose,90,Male,10/12/1917,6/14/2020,9/23/2021,Cancer,O+,641-11-3910
+589,Edd,Dansey,92,Male,12/8/1952,11/26/2022,10/5/2022,Heart Disease,A-,483-89-3676
+590,Domenico,Shields,75,Male,7/25/2005,12/4/2021,3/24/2021,Diabetes,O+,428-70-9835
+591,Angelle,Master,109,Female,1/13/1973,10/11/2021,7/8/2022,COVID-19,O-,102-58-2388
+592,Aubree,Darlaston,26,Agender,10/16/1979,12/29/2020,12/5/2020,Stroke,A+,488-71-6863
+593,Margaux,Knyvett,82,Female,1/4/2022,1/30/2022,12/19/2020,Stroke,O-,494-58-3089
+594,Annabell,Facey,5,Female,2/15/1932,8/25/2022,4/23/2022,Heart Disease,AB-,575-79-4271
+595,Ruthy,Turl,23,Genderqueer,9/12/2002,6/10/2020,4/20/2020,Heart Disease,O+,173-34-9335
+596,Blinni,Soan,66,Female,10/28/1966,11/5/2021,4/2/2022,Diabetes,O+,258-95-0148
+597,Karlan,Cuskery,104,Male,7/27/2022,5/26/2022,11/3/2020,Diabetes,A+,729-73-5087
+598,Rockie,Treasure,37,Male,5/6/1920,1/13/2022,6/10/2020,Diabetes,A+,880-40-1671
+599,Lynn,Neil,3,Female,4/16/1962,8/25/2021,10/31/2022,Heart Disease,B+,145-04-9654
+600,Egon,Dewitt,39,Male,4/17/2004,1/2/2020,1/3/2022,COVID-19,O+,439-95-1663
+601,Fredek,O'Cullinane,6,Bigender,1/9/1959,2/8/2020,9/17/2021,Heart Disease,B-,887-43-4244
+602,Antons,Kenderdine,90,Male,1/13/1904,11/5/2020,10/6/2021,COVID-19,B+,122-06-1605
+603,Karil,Dickson,43,Female,8/20/1987,12/2/2020,10/4/2020,Cancer,A+,328-50-0725
+604,Spense,Gorse,68,Male,7/2/1922,7/12/2020,6/10/2021,Diabetes,B+,616-20-9423
+605,Abbi,Lovewell,73,Genderqueer,1/24/2009,9/9/2022,9/21/2022,COVID-19,O+,236-65-5855
+606,Gae,Glayzer,81,Polygender,7/15/1975,4/25/2020,9/18/2021,Cancer,B+,830-65-5654
+607,Miller,Casarini,15,Male,10/23/2018,5/16/2020,8/22/2022,Stroke,B+,315-66-6583
+608,Aldis,Frazier,84,Male,12/21/1942,9/13/2020,5/30/2020,Diabetes,AB+,830-38-7100
+609,Goldie,Kliment,42,Female,4/30/1943,3/20/2020,3/10/2021,Heart Disease,O-,884-27-6184
+610,Enos,Bohlin,18,Male,5/2/1965,5/28/2020,12/12/2020,COVID-19,AB-,164-76-0574
+611,Connor,Farriar,35,Male,10/28/1913,3/21/2020,4/18/2022,COVID-19,O-,674-92-7301
+612,Izabel,Duley,8,Female,5/1/1947,12/30/2021,12/29/2022,Diabetes,B-,124-94-6758
+613,Lindon,D'Souza,59,Male,7/16/2018,3/15/2021,10/7/2021,Heart Disease,O-,445-29-6729
+614,Emalee,Bullerwell,84,Genderfluid,11/20/2004,11/27/2020,6/18/2020,Heart Disease,B-,351-71-5568
+615,Grenville,Maybery,20,Male,2/27/1927,11/6/2021,10/10/2022,Heart Disease,A+,732-26-0643
+616,Claiborne,Twitchings,73,Male,6/2/1923,3/27/2021,5/30/2021,Stroke,O-,483-82-4841
+617,Fairlie,Larchiere,55,Male,7/11/1966,6/21/2022,2/13/2022,Stroke,A-,330-39-6507
+618,Gizela,Balnave,11,Female,6/23/1902,12/1/2020,3/17/2021,Heart Disease,A+,334-33-3805
+619,Brittani,Pendrick,25,Female,4/4/1930,11/29/2021,5/28/2021,Diabetes,A-,711-96-2686
+620,Errol,Oxenbury,111,Male,7/31/2003,12/24/2020,2/16/2022,Heart Disease,O-,723-83-2449
+621,Ansley,Parkin,45,Female,10/12/1923,9/4/2022,1/31/2020,COVID-19,B-,321-73-9013
+622,Rodger,Keatley,75,Male,6/21/1972,6/24/2020,8/19/2020,Diabetes,O+,257-81-3396
+623,Dorisa,Eves,83,Female,12/15/1972,12/28/2022,1/17/2021,Cancer,AB+,643-14-7401
+624,Marven,Soares,88,Male,10/9/1942,9/7/2022,12/3/2022,Diabetes,AB-,858-76-5914
+625,Ellary,McCarroll,92,Male,7/12/1935,9/6/2020,7/13/2021,Diabetes,O-,513-81-6245
+626,Rogers,Bailiss,32,Male,1/21/1924,6/23/2022,11/20/2021,Cancer,O-,487-55-8762
+627,Claiborn,Stebbings,16,Male,11/27/2004,3/22/2022,6/15/2022,Heart Disease,O-,525-66-2428
+628,Theodor,Matushevitz,103,Male,9/6/1949,4/9/2021,10/15/2020,Diabetes,O-,761-87-4299
+629,Clare,Stenner,17,Female,6/2/1985,4/20/2021,8/12/2020,Diabetes,O-,121-49-6725
+630,Ameline,Pechet,25,Female,11/22/1976,4/2/2020,8/6/2021,Diabetes,O-,320-24-9523
+631,Bari,Casbon,114,Female,4/8/1985,12/28/2021,5/13/2022,Diabetes,AB+,778-71-6643
+632,Hynda,Jarad,80,Female,1/14/1925,1/27/2020,6/18/2022,Heart Disease,A-,288-42-1779
+633,Rhys,Desmond,82,Genderqueer,12/27/1912,12/26/2022,6/2/2022,COVID-19,A+,583-93-8485
+634,Merna,Glentworth,111,Female,1/28/1963,8/26/2020,5/29/2020,Cancer,B+,864-06-9663
+635,Steward,Dyson,34,Polygender,3/23/1982,7/19/2020,12/1/2021,COVID-19,B-,116-71-4593
+636,Roselin,Smedmoor,80,Female,12/28/1977,12/19/2020,11/26/2020,Cancer,A-,773-85-8531
+637,Tiena,Faichnie,107,Female,6/12/1987,7/9/2021,8/8/2020,COVID-19,O+,266-79-9696
+638,Meryl,Trevan,74,Male,1/26/2010,1/10/2020,11/27/2021,Stroke,O+,577-45-7919
+639,Dorine,Longridge,106,Female,6/11/1966,12/17/2020,3/11/2021,Diabetes,AB-,338-75-1713
+640,Reamonn,Emmanuel,52,Agender,10/29/1981,12/18/2021,4/12/2020,Diabetes,B-,517-38-4658
+641,Robinetta,Middup,76,Female,11/20/1938,10/8/2021,4/22/2020,Heart Disease,O-,239-99-2913
+642,Bettye,Glowacha,91,Female,5/3/1926,2/1/2022,7/26/2020,Stroke,O-,679-84-1794
+643,Creight,Batalini,26,Male,9/11/1911,3/7/2020,11/8/2021,COVID-19,B-,863-34-3976
+644,Alexandros,Caird,44,Male,10/20/1938,8/31/2022,9/23/2021,Heart Disease,O-,338-37-9215
+645,Marga,Glaze,30,Female,12/24/1940,1/23/2022,10/17/2021,COVID-19,B-,133-27-3127
+646,Cosmo,McGovern,69,Male,7/24/1901,7/26/2020,9/10/2020,Stroke,AB+,217-83-5520
+647,Valerye,Lemme,86,Female,7/13/1979,10/18/2022,11/15/2022,Cancer,B+,543-65-7540
+648,Shannon,Medcalfe,107,Male,9/19/1951,1/1/2022,5/13/2020,Cancer,AB+,670-84-1143
+649,Corella,Pistol,97,Female,6/19/2006,11/2/2020,3/8/2021,Diabetes,A-,791-05-2305
+650,Waldon,Boggish,8,Male,7/12/1983,10/16/2021,10/13/2020,Stroke,A-,632-47-4000
+651,Bernice,Lethcoe,112,Female,5/2/1976,3/30/2020,10/21/2021,COVID-19,O-,244-06-1876
+652,Enrica,Taylerson,82,Female,10/22/1980,1/28/2022,2/28/2021,COVID-19,B-,560-43-6010
+653,Tommi,Simmance,86,Female,3/16/2021,3/24/2020,10/30/2022,Cancer,A+,388-55-5175
+654,Morly,Newcome,53,Male,11/23/1970,8/1/2022,10/13/2020,Diabetes,AB+,834-57-8150
+655,Elladine,Attwill,112,Female,2/12/1911,4/29/2022,11/20/2020,Cancer,AB-,236-81-7943
+656,Zolly,Bassilashvili,63,Male,6/5/1941,11/10/2021,4/27/2021,Heart Disease,B+,514-97-7028
+657,Hunfredo,Jurgenson,56,Genderfluid,7/27/2001,12/11/2021,4/11/2021,COVID-19,AB+,854-04-9831
+658,Nathaniel,Purle,102,Male,10/8/1963,4/22/2021,2/12/2021,Diabetes,B+,568-44-6361
+659,Laurella,Betje,33,Female,7/29/1904,8/13/2020,8/21/2021,Cancer,A-,473-90-5927
+660,Say,Casin,50,Male,8/10/2010,7/17/2022,8/12/2022,Heart Disease,AB-,179-68-6561
+661,Crysta,Yansons,51,Female,12/20/1931,3/13/2022,10/27/2022,Diabetes,A-,368-63-9981
+662,Frank,deKnevet,17,Male,5/17/1913,9/10/2022,12/13/2021,COVID-19,AB+,205-12-8350
+663,Gilbertine,Maharry,70,Female,10/23/2008,6/27/2021,8/14/2022,Stroke,A-,547-07-3431
+664,Wallis,Daughtry,49,Female,3/3/1952,1/26/2020,6/3/2020,Diabetes,A-,669-82-3262
+665,Rosamund,Lampl,45,Female,2/14/1900,11/18/2021,8/10/2020,Cancer,A+,563-07-8816
+666,Dav,Sim,75,Male,6/2/2008,9/3/2022,3/31/2021,Stroke,AB+,200-26-0828
+667,Jacinda,Tarplee,29,Female,7/21/1984,1/25/2020,2/23/2022,Diabetes,B-,114-85-2428
+668,Felipa,Kivelhan,90,Female,5/8/1961,5/23/2022,5/23/2020,Stroke,AB-,431-48-3517
+669,Ned,Ackermann,42,Male,4/19/1972,11/25/2021,8/4/2020,Heart Disease,B+,273-79-3239
+670,Kerrie,Boulder,74,Female,11/25/1900,12/6/2022,5/14/2020,Stroke,AB+,648-23-7381
+671,Aline,Houlison,100,Female,10/11/2006,12/13/2020,11/18/2021,Stroke,A+,414-45-3003
+672,Benny,Volker,104,Female,9/12/2021,8/1/2020,12/1/2020,COVID-19,AB-,453-54-7465
+673,Dorice,Van der Krui,104,Female,3/8/1929,10/7/2021,1/23/2020,Cancer,B-,551-09-2376
+674,Porter,Straneo,111,Male,4/29/1911,1/5/2020,12/4/2021,Cancer,AB-,271-06-4925
+675,Jervis,Drewe,42,Male,12/27/1952,8/2/2022,3/7/2022,Heart Disease,O+,380-88-2500
+676,Wandie,Uff,38,Female,3/11/1954,7/13/2020,10/6/2021,Heart Disease,B-,546-94-0502
+677,Afton,Myall,2,Female,3/15/2001,11/10/2022,6/14/2020,Cancer,A-,399-82-1633
+678,Xaviera,Goldston,9,Genderfluid,3/28/2018,6/24/2020,10/27/2021,Diabetes,O+,695-71-5560
+679,Hart,Willcox,72,Male,7/12/1909,2/2/2020,2/19/2021,Heart Disease,B-,167-21-4332
+680,Pieter,Sessions,26,Male,8/10/1948,5/5/2022,11/1/2020,Diabetes,O-,351-16-1809
+681,Dode,Ladbrooke,104,Female,6/5/1909,5/28/2021,6/6/2022,Heart Disease,AB-,489-21-1914
+682,Jakie,Rispen,81,Male,10/15/1994,8/1/2021,8/14/2022,COVID-19,B-,389-41-1504
+683,Morey,Whithorn,7,Male,6/17/2000,1/18/2021,9/24/2020,Diabetes,AB+,555-49-0188
+684,Doll,Cobbe,31,Female,1/31/1939,11/13/2020,8/12/2021,Diabetes,B-,766-07-1966
+685,Robin,Tidman,79,Female,8/8/1953,3/17/2020,10/1/2020,Heart Disease,AB-,204-32-1933
+686,Magdalena,Weatherill,56,Bigender,7/24/1909,12/22/2020,5/5/2020,Stroke,AB+,881-13-0359
+687,Eddy,Gooding,45,Male,4/18/1954,5/24/2020,12/18/2021,Diabetes,AB+,524-86-6811
+688,Dru,Taynton,28,Male,5/5/1953,12/29/2022,12/20/2021,Stroke,A+,745-32-9603
+689,Gennie,Isaak,9,Genderqueer,6/21/1908,11/20/2021,12/26/2022,Cancer,A+,646-18-7688
+690,Violet,Christiensen,32,Female,1/16/1967,10/2/2021,5/7/2020,Diabetes,O-,551-83-7128
+691,Beaufort,Hugle,56,Male,9/11/2008,11/16/2020,4/3/2020,Diabetes,AB+,699-67-9762
+692,Olivia,Gutcher,67,Female,6/17/2016,5/7/2022,9/23/2021,Diabetes,B+,206-12-2202
+693,Nollie,Worms,38,Female,11/27/1971,6/13/2020,5/16/2020,Stroke,B+,296-81-7179
+694,Emmit,Ferrino,69,Male,9/19/1956,4/8/2020,2/9/2020,COVID-19,B+,880-35-4206
+695,Tabby,Lownds,54,Male,2/24/1947,6/30/2021,4/13/2021,Diabetes,A-,730-82-6003
+696,Archy,Conn,102,Male,11/4/1946,2/26/2020,8/14/2022,COVID-19,B+,852-64-0258
+697,Ewen,Jzak,63,Male,5/30/1914,1/16/2021,4/18/2020,Stroke,A+,321-12-8065
+698,Thelma,Teas,11,Female,12/26/2009,9/16/2022,7/21/2021,COVID-19,A+,306-42-3657
+699,Byrann,Konke,92,Male,11/3/1937,2/10/2021,9/30/2021,Diabetes,B+,362-06-4523
+700,Lyda,Boni,30,Female,8/24/1985,9/26/2020,10/20/2021,Stroke,A-,309-80-3283
+701,Ainslee,Steventon,1,Female,4/16/1912,5/15/2022,8/25/2021,COVID-19,B-,491-37-7386
+702,Emlynne,MacMickan,34,Agender,2/28/1928,9/10/2020,4/11/2022,Heart Disease,B-,499-33-7607
+703,Caril,Huzzay,20,Agender,6/27/1996,4/20/2021,5/16/2022,Cancer,B+,140-43-6291
+704,Shannon,Negus,59,Female,6/10/1995,10/29/2022,6/1/2020,Stroke,B+,343-30-4573
+705,Inigo,Mitchenson,109,Male,9/25/2017,4/11/2021,12/9/2022,Stroke,A-,245-42-5385
+706,Finlay,Staner,36,Male,9/19/1913,5/12/2020,11/18/2022,Stroke,B+,722-95-5562
+707,Sadye,Faussett,79,Non-binary,1/18/1995,8/26/2020,12/24/2022,Diabetes,AB+,406-06-0939
+708,Clim,Mathieu,3,Male,2/3/1994,6/26/2020,2/29/2020,COVID-19,O-,146-60-7893
+709,Guido,Forsythe,43,Male,3/18/2007,10/4/2020,5/25/2021,Stroke,AB+,435-48-3600
+710,Chrisse,Hollyman,47,Male,3/14/1954,1/29/2020,4/24/2020,Stroke,O-,231-37-4906
+711,Kerry,McBlain,58,Male,10/17/1948,6/30/2021,7/23/2022,Heart Disease,O+,378-69-1179
+712,Pablo,Milner,64,Male,3/1/1994,10/14/2022,2/9/2021,COVID-19,A-,626-12-6314
+713,Wayne,Percy,51,Male,11/13/1928,9/6/2022,9/9/2021,Diabetes,A+,565-49-7877
+714,Ricky,Enefer,74,Male,10/22/1973,4/26/2022,7/30/2022,Diabetes,B-,746-56-1822
+715,Gnni,Bethel,26,Female,9/15/1953,10/30/2021,2/13/2022,Diabetes,B-,679-07-4744
+716,Hillie,Wybrew,76,Male,12/21/1903,12/21/2020,6/10/2022,Heart Disease,A+,653-54-6080
+717,Cecile,Piotrkowski,54,Female,3/9/1923,9/10/2020,10/17/2022,Stroke,AB+,330-89-4367
+718,Melamie,Bodd,120,Female,4/13/1959,6/28/2022,12/4/2022,Heart Disease,A-,489-65-2239
+719,Fernando,Finby,92,Male,7/3/2002,8/30/2022,2/18/2022,Stroke,AB+,416-78-9960
+720,Iorgo,Berney,39,Male,9/21/2010,4/13/2020,3/24/2020,Stroke,AB-,453-26-7875
+721,Xerxes,Titmuss,55,Male,7/7/1912,9/13/2022,6/16/2020,COVID-19,B-,844-02-2756
+722,Sharity,Lindsey,27,Female,1/25/1912,9/14/2021,5/15/2020,Stroke,B+,332-98-8518
+723,Ardelle,Standidge,31,Female,7/4/1984,8/28/2021,12/30/2021,Heart Disease,A-,657-15-1843
+724,Kip,Babidge,117,Female,12/23/1991,7/1/2020,9/29/2022,Heart Disease,B+,791-14-4269
+725,Gerrard,Clemoes,19,Male,3/4/1971,8/24/2021,1/16/2021,COVID-19,O+,459-44-1959
+726,Hayes,Lodden,15,Male,4/6/1911,12/29/2021,11/12/2021,COVID-19,O-,847-38-4398
+727,Parry,Idiens,101,Male,3/20/2016,7/20/2022,8/26/2020,Stroke,B+,891-25-8590
+728,Rebekkah,Hawkings,56,Female,11/4/1980,12/27/2021,7/24/2021,COVID-19,B-,610-85-6465
+729,Jennica,Tambling,33,Female,2/20/1972,2/18/2021,3/8/2020,Stroke,A-,249-95-0329
+730,Zebulen,Signorelli,48,Male,4/12/1917,10/28/2020,2/11/2020,COVID-19,A+,750-35-7698
+731,Guinna,Blackmoor,88,Female,7/10/1971,9/1/2021,7/23/2020,Diabetes,AB-,137-50-0198
+732,Harcourt,Torbeck,46,Male,9/13/1930,9/21/2020,5/3/2022,COVID-19,O-,303-55-7356
+733,Ginevra,Hargie,120,Female,3/27/1971,8/27/2022,1/17/2021,COVID-19,AB-,210-71-4741
+734,Beverie,Tetford,113,Bigender,2/20/2019,1/11/2021,12/22/2020,Diabetes,A-,643-65-2161
+735,Valera,Cracie,11,Female,9/19/1939,5/9/2021,12/24/2022,COVID-19,B-,272-45-6464
+736,Marika,Eggleson,20,Female,7/7/1915,5/16/2020,11/11/2020,Cancer,B+,540-77-9175
+737,Tedmund,Dacks,24,Male,1/20/1950,11/10/2020,11/9/2021,COVID-19,A+,661-80-2597
+738,Bernarr,Boler,24,Male,12/23/1996,8/24/2022,1/31/2022,Diabetes,O-,297-76-6064
+739,Shanna,Jenkerson,101,Female,2/26/2019,11/17/2020,11/28/2020,Stroke,B+,578-61-1999
+740,Ardyth,Woolaghan,69,Female,6/20/2013,11/1/2021,9/16/2021,Stroke,A-,269-87-8735
+741,Melinde,Propper,42,Female,11/9/2007,7/28/2020,9/6/2020,Heart Disease,AB+,801-50-2436
+742,Robbert,Doers,1,Male,8/5/1922,4/21/2020,2/20/2020,Stroke,B+,692-45-5553
+743,Maje,Kerner,55,Male,10/24/2015,3/4/2022,2/19/2022,Diabetes,O-,679-49-3039
+744,Rona,Ineson,82,Female,2/9/1989,7/4/2020,12/18/2021,COVID-19,O-,759-71-7462
+745,Lucilia,McGurk,21,Female,3/3/1997,12/2/2021,8/22/2020,Heart Disease,B-,873-09-7709
+746,Annora,Ashbee,85,Female,2/23/1926,11/21/2022,12/9/2021,COVID-19,O-,686-30-6500
+747,Bil,Labeuil,87,Male,8/7/2001,7/24/2022,2/23/2020,Heart Disease,O-,197-91-6060
+748,Whitney,McIlharga,95,Male,9/3/1933,5/26/2020,4/13/2020,Diabetes,B+,103-33-7706
+749,Filip,Maxsted,116,Male,9/25/1904,7/18/2021,7/4/2020,COVID-19,B+,449-93-7327
+750,Carin,Dewdney,72,Female,11/28/1989,8/16/2022,4/13/2021,Stroke,B+,373-64-3372
+751,Chrissie,Dufoure,2,Female,4/5/1917,9/6/2021,5/19/2020,Heart Disease,A-,820-07-8306
+752,Deanna,Soulsby,102,Female,4/23/1965,11/5/2021,8/29/2021,Stroke,AB-,284-70-7038
+753,Karla,Gillingwater,14,Female,9/9/1919,12/30/2021,7/5/2022,Heart Disease,A+,223-95-2742
+754,Delaney,Amberson,46,Male,9/9/1998,7/14/2020,7/18/2021,Diabetes,O+,626-94-0114
+755,Manny,Berget,112,Male,10/14/1921,6/5/2022,5/27/2022,Heart Disease,A+,167-97-5955
+756,Gabriell,Kampshell,32,Female,2/27/1932,12/1/2021,9/6/2022,COVID-19,O-,456-14-3904
+757,Thatcher,Blackly,46,Male,8/3/2012,11/25/2021,6/17/2022,Cancer,O-,758-81-0827
+758,Durand,Hundell,32,Genderqueer,12/9/1967,7/3/2021,5/27/2020,Cancer,AB-,646-18-7696
+759,Cammy,Munby,70,Male,3/5/2004,12/26/2020,4/20/2021,Stroke,A-,435-54-2279
+760,Lynn,More,31,Female,12/24/1945,8/1/2022,1/20/2020,Diabetes,B-,164-36-9744
+761,Janean,Borton,43,Female,11/29/1971,5/16/2020,10/18/2021,Diabetes,O-,621-64-4610
+762,Sharai,Murrigans,7,Agender,2/20/2012,6/15/2021,4/5/2021,COVID-19,AB-,484-82-9629
+763,Natty,Glowach,89,Female,10/21/1936,2/27/2021,10/2/2022,Stroke,AB-,409-53-1794
+764,Dill,Renoden,40,Male,8/10/1949,6/29/2021,11/25/2022,Cancer,B+,401-75-2661
+765,Griffith,Aldie,93,Genderfluid,6/2/1935,1/11/2021,1/3/2022,Diabetes,A+,239-08-1405
+766,Lemuel,Craig,31,Male,8/20/1962,11/14/2021,9/30/2021,Cancer,O-,267-67-7895
+767,Angelo,Charrette,12,Male,5/27/1925,12/9/2022,6/5/2022,Stroke,AB+,692-95-5615
+768,Clement,Arundel,49,Genderfluid,4/8/1955,8/22/2022,8/28/2021,Heart Disease,O+,640-58-7920
+769,Martainn,Nisen,96,Male,9/2/1986,4/13/2021,6/28/2021,COVID-19,AB-,114-83-4165
+770,Sherm,Seppey,59,Male,6/28/1917,11/26/2021,9/18/2022,COVID-19,B-,387-37-2230
+771,Paige,Hainge,104,Female,12/16/1994,12/22/2020,11/28/2020,Heart Disease,AB+,182-48-1204
+772,Hanni,Lough,53,Female,9/28/2022,10/7/2022,7/9/2022,Stroke,A-,465-46-0463
+773,Zondra,Lambol,53,Female,10/16/1963,6/25/2021,6/30/2022,COVID-19,O-,267-97-6174
+774,Saunders,Sunter,17,Male,11/18/1934,8/18/2021,8/8/2021,COVID-19,A-,352-44-7830
+775,Deeanne,Coslett,56,Female,6/18/1929,5/24/2021,6/24/2022,COVID-19,O+,128-07-3443
+776,Reuven,McCosh,48,Male,1/13/1974,2/6/2021,9/17/2020,Cancer,AB+,100-68-5949
+777,Emlen,Shackesby,116,Male,2/23/1951,11/5/2021,9/11/2020,Cancer,B-,579-92-2222
+778,Winonah,Bader,110,Female,8/7/1974,6/3/2022,12/15/2022,COVID-19,A+,888-77-7886
+779,Maddalena,Gowman,35,Female,8/28/1900,2/16/2020,3/15/2022,COVID-19,AB-,793-03-7238
+780,Corney,Goddard,55,Male,2/2/1901,10/10/2022,2/19/2021,Cancer,A+,770-47-0703
+781,Carolyn,Trussler,33,Female,12/15/1921,7/2/2021,3/19/2020,Stroke,AB+,500-77-8593
+782,Mandi,Riply,44,Female,4/21/1951,7/9/2022,7/28/2020,COVID-19,AB+,507-95-2399
+783,Etta,Tookill,118,Polygender,7/8/2001,8/25/2021,9/20/2020,Cancer,B-,434-19-1933
+784,Carolyn,Seally,43,Agender,6/20/1975,1/2/2021,7/5/2021,Diabetes,O-,237-31-7122
+785,Justinian,Lippiello,119,Male,4/19/1951,4/24/2020,9/8/2022,Diabetes,B-,170-77-9710
+786,Phaidra,Farguhar,16,Female,4/23/1965,7/24/2020,9/5/2021,Heart Disease,B-,202-85-7702
+787,Cristian,Arkwright,78,Male,12/13/1948,7/5/2021,11/17/2020,Diabetes,O+,759-92-4418
+788,Bowie,Jatczak,3,Bigender,9/9/1940,7/23/2022,9/29/2022,Stroke,A+,261-37-5408
+789,Gardner,Pipes,87,Male,11/23/2015,7/16/2021,9/23/2021,Stroke,AB-,898-03-4428
+790,Tabbie,Bozward,6,Male,6/19/1992,10/13/2021,7/21/2021,Cancer,A+,282-44-4606
+791,Nonnah,Roden,105,Female,1/24/2007,8/24/2020,5/30/2022,COVID-19,O+,283-53-8087
+792,Cathlene,Foxton,11,Female,8/16/2007,1/22/2021,5/12/2021,Diabetes,A+,568-64-5868
+793,Baillie,Inge,29,Male,2/18/1908,12/17/2022,4/25/2020,COVID-19,AB-,768-27-7532
+794,Millard,Boynes,56,Agender,2/24/2004,9/25/2020,3/3/2021,COVID-19,A-,277-71-3856
+795,Cal,Densumbe,114,Male,3/9/1972,6/27/2021,6/22/2020,COVID-19,A+,450-76-1195
+796,Marie,Reddel,38,Female,3/7/1957,9/22/2022,9/30/2021,Cancer,O+,364-12-6616
+797,Cleon,MacGinlay,0,Male,12/11/1940,9/7/2022,5/7/2021,Cancer,A+,415-33-3710
+798,Garek,Daldan,54,Male,3/2/2002,2/23/2022,8/2/2020,Heart Disease,O-,839-63-2164
+799,Edin,Caws,49,Female,3/20/1940,10/6/2022,5/25/2021,Diabetes,B-,706-82-8955
+800,Bil,Betz,18,Male,3/7/1936,2/10/2021,11/8/2022,Diabetes,O-,505-15-2630
+801,Philomena,Gellett,80,Female,2/18/1929,1/17/2020,3/14/2022,Cancer,A-,845-55-6523
+802,Vasily,Dowker,105,Male,3/7/1967,8/2/2021,6/30/2022,Cancer,B-,201-13-9880
+803,Kimbell,Feldstein,80,Male,10/2/1987,10/3/2022,10/20/2021,Heart Disease,A+,835-67-1794
+804,Junette,Checcuzzi,93,Female,1/15/1982,8/13/2021,4/14/2021,Diabetes,AB+,889-02-7535
+805,Quinn,Hillatt,103,Non-binary,9/20/1970,1/1/2022,1/27/2021,Cancer,A+,219-75-8703
+806,Vinny,Laugheran,74,Male,10/21/1906,1/28/2022,7/15/2021,COVID-19,B+,139-95-2911
+807,Cyndi,Gauthorpp,3,Female,6/12/1904,8/26/2021,4/21/2022,Heart Disease,O-,348-63-5907
+808,Max,Pengelly,94,Female,4/23/1974,1/14/2022,11/24/2022,Stroke,A-,336-17-8049
+809,Arlen,Olliar,6,Female,4/7/2010,2/27/2021,8/2/2020,Diabetes,B+,380-62-9031
+810,Padget,Slade,96,Male,2/16/1952,12/21/2020,2/27/2020,Cancer,AB+,382-31-2436
+811,Gertrudis,Nanni,89,Female,3/3/1939,6/18/2022,1/26/2022,Heart Disease,B-,281-20-6127
+812,Taite,Geraldez,9,Male,11/22/1900,12/10/2021,5/23/2021,COVID-19,AB+,490-07-9211
+813,Mickie,Saffer,11,Female,4/17/1904,7/23/2020,5/24/2021,Stroke,AB+,696-03-5154
+814,Rodi,Dunlop,39,Female,4/16/2014,7/27/2022,1/27/2022,Heart Disease,A-,475-48-4852
+815,Gabriell,Kyteley,12,Female,12/11/1995,1/4/2021,1/9/2022,Cancer,AB-,714-66-5218
+816,Adele,Sigert,54,Female,3/3/1977,7/7/2020,4/24/2021,Cancer,O+,262-49-9292
+817,Ransell,Joutapaitis,14,Male,9/27/1918,1/24/2020,4/13/2020,Diabetes,AB-,783-11-0971
+818,Euell,Bulteel,102,Male,12/22/1984,11/10/2022,8/4/2020,Diabetes,AB-,101-13-1700
+819,Baron,Thornley,99,Male,3/24/1963,2/13/2021,8/20/2021,Diabetes,AB-,325-08-6524
+820,Shellysheldon,Abotson,20,Agender,6/8/1931,6/28/2020,4/23/2022,Diabetes,A-,762-21-3330
+821,Babbette,Nellis,26,Female,8/25/1946,2/23/2021,12/6/2022,Stroke,O+,777-19-2390
+822,Dorothea,Greenland,70,Female,10/14/1926,11/8/2021,1/9/2022,Diabetes,AB+,498-57-7684
+823,Weidar,Ellson,90,Male,8/13/1924,12/30/2022,10/14/2022,Diabetes,AB+,550-56-9131
+824,Adela,Ollivierre,12,Female,2/4/2022,3/29/2021,1/25/2020,COVID-19,O-,287-03-9389
+825,Darby,Corless,77,Male,2/21/1929,12/7/2022,6/18/2020,Heart Disease,O-,727-44-0375
+826,Giulio,Dickons,93,Male,10/1/2011,12/13/2022,4/28/2021,COVID-19,AB+,468-48-1319
+827,Tammy,Haldene,40,Male,1/29/1937,8/15/2021,12/31/2021,COVID-19,A+,898-02-8661
+828,Desirae,Preuvost,11,Female,1/30/1917,9/14/2022,9/1/2021,Cancer,A-,233-82-3749
+829,Ellene,Royle,87,Female,2/18/1986,5/11/2022,5/21/2021,Heart Disease,O+,679-54-3845
+830,Tillie,Dowsey,18,Female,1/31/1998,7/14/2021,2/20/2020,Diabetes,A-,325-64-1560
+831,Ardra,Klimowicz,82,Female,4/29/1955,9/14/2021,11/8/2020,Diabetes,A+,242-56-4446
+832,Kleon,Speares,64,Male,8/23/1903,6/8/2021,10/27/2020,Cancer,B-,227-42-8822
+833,Hall,Braferton,83,Male,10/10/1945,9/4/2022,11/2/2022,Stroke,AB+,480-32-3058
+834,Weylin,Adkin,78,Male,6/20/1973,9/14/2021,3/31/2020,Cancer,A+,800-37-2553
+835,Alaine,Corday,55,Agender,4/30/1982,6/30/2020,5/3/2021,Stroke,O+,164-23-1184
+836,Sigismundo,Sturman,33,Male,2/9/1998,6/7/2021,8/20/2022,Heart Disease,A+,173-22-0356
+837,Alberto,Cobbing,11,Male,8/7/1927,2/27/2022,6/3/2022,Diabetes,O+,196-27-7635
+838,Philippine,Roscam,69,Female,1/28/1929,10/8/2022,2/28/2022,Stroke,AB+,501-50-0345
+839,Adina,Chesser,76,Bigender,6/1/1959,3/19/2022,1/6/2022,COVID-19,O+,147-69-8029
+840,Lynda,Pate,81,Female,11/19/1902,1/5/2020,6/13/2020,Diabetes,B+,743-69-0263
+841,Olag,Acheson,6,Male,11/6/1982,11/10/2021,7/6/2021,Cancer,AB+,734-88-3581
+842,Ninon,Gaveltone,19,Female,5/7/1938,11/9/2020,7/20/2020,COVID-19,A+,721-92-4977
+843,Thomas,Irvin,68,Bigender,1/18/1940,4/23/2022,7/4/2021,Heart Disease,A+,737-59-9852
+844,Carlita,Ragles,120,Female,4/1/1906,9/17/2020,7/17/2022,COVID-19,AB-,372-16-3490
+845,Burl,Bolan,53,Polygender,6/21/2013,7/28/2022,6/27/2021,Diabetes,O+,476-01-2762
+846,Rosabelle,Wreakes,42,Female,2/21/1975,8/17/2021,11/6/2021,Cancer,A-,371-57-3272
+847,Mignon,Boyack,111,Female,2/5/2013,5/6/2020,12/13/2021,COVID-19,A-,262-53-0225
+848,Fina,Gillham,4,Female,4/14/1992,8/16/2021,4/8/2020,Stroke,AB-,161-68-1963
+849,Eldon,Anstie,44,Male,10/8/2017,8/27/2021,1/26/2021,Stroke,B+,324-32-4993
+850,Susette,Chewter,100,Female,11/23/1980,6/6/2020,6/5/2022,COVID-19,AB-,165-70-8557
+851,Turner,Glenwright,39,Male,12/31/1967,8/16/2020,8/1/2020,Cancer,O+,467-29-3443
+852,Roxine,Pandya,1,Female,10/8/2014,11/15/2022,5/11/2021,Heart Disease,B-,621-18-9259
+853,Carole,Crease,94,Female,10/24/1927,7/8/2021,10/22/2020,COVID-19,O+,422-31-6058
+854,Tailor,Callard,71,Male,4/16/2010,4/15/2020,8/14/2021,Stroke,A-,262-73-7722
+855,Rudie,Wing,18,Male,7/28/1960,1/16/2020,6/21/2021,Heart Disease,O-,465-81-8950
+856,Jae,Priter,75,Male,11/22/1939,1/2/2022,6/14/2022,Stroke,O-,720-59-7501
+857,Barclay,Cheak,56,Male,1/4/2006,3/15/2022,7/22/2021,Heart Disease,O+,237-36-2238
+858,Clarette,Hastilow,101,Female,3/23/2022,6/20/2022,11/2/2020,COVID-19,B-,314-96-5230
+859,Llewellyn,Dumpleton,79,Male,7/9/1991,10/26/2020,2/7/2022,COVID-19,AB+,438-55-4996
+860,Erena,Ketley,47,Female,6/29/1941,6/28/2020,3/2/2020,Stroke,A-,395-85-7822
+861,Dredi,Tunna,71,Female,8/24/1959,5/14/2020,10/30/2021,Diabetes,A+,151-30-4761
+862,Maxie,Dibdall,15,Female,4/26/1991,6/29/2021,2/23/2022,Stroke,O+,807-37-3598
+863,Laurel,Ruperti,96,Female,4/19/1945,6/27/2020,6/15/2020,Heart Disease,O+,701-72-9922
+864,Birk,Suett,62,Male,1/23/1917,5/23/2022,8/12/2020,Stroke,A+,482-34-7632
+865,Blaine,Dakhov,23,Male,7/3/1924,3/18/2022,11/16/2022,Cancer,B+,228-37-7365
+866,Halsey,Matteoni,11,Male,6/7/2008,12/18/2022,12/13/2022,Heart Disease,AB+,243-03-8416
+867,Hew,Stavers,40,Male,12/14/1920,3/16/2021,6/5/2021,Stroke,A-,818-13-8565
+868,Newton,Randles,52,Male,1/18/2006,8/5/2021,2/23/2020,Heart Disease,B-,301-92-2750
+869,Mabelle,Gurry,90,Female,12/30/1918,12/18/2020,1/13/2021,Diabetes,B+,235-82-9408
+870,Trever,Corkett,59,Male,8/1/1996,1/5/2021,4/29/2022,Cancer,B-,591-85-2079
+871,Renard,Garfoot,102,Male,2/7/1945,3/19/2021,12/24/2022,Heart Disease,O+,517-15-1399
+872,Maggy,Takkos,78,Female,8/25/1989,5/2/2020,3/26/2020,Cancer,O+,609-47-4529
+873,Boonie,Sailer,43,Male,6/28/1943,12/7/2021,1/6/2021,Heart Disease,B+,476-07-0218
+874,Tressa,Yitzowitz,58,Female,12/22/1988,12/7/2022,2/9/2021,Diabetes,O-,777-39-0266
+875,Maximilianus,Lethby,44,Male,2/4/2015,4/26/2020,2/29/2020,COVID-19,O+,469-71-3229
+876,George,Telezhkin,15,Male,3/31/1974,3/26/2020,1/6/2020,Heart Disease,B+,898-58-2784
+877,Corry,Youthead,81,Agender,8/11/1954,1/4/2022,4/12/2021,COVID-19,AB+,618-30-8255
+878,Hetti,Berryann,64,Female,10/2/1938,4/5/2021,11/3/2021,Cancer,A+,371-92-1596
+879,Darn,Bridal,54,Male,8/6/1986,7/25/2022,5/20/2021,COVID-19,O+,659-76-4043
+880,Iggie,Muehle,59,Male,5/13/1987,2/12/2020,10/13/2022,Cancer,B-,495-94-8889
+881,Enid,Allner,79,Female,9/28/1986,1/2/2020,10/15/2022,Diabetes,A+,211-06-6903
+882,Tilly,Seals,80,Female,11/6/1986,8/28/2021,12/18/2020,Stroke,A+,391-30-2696
+883,Tobe,Everwin,19,Female,6/23/1968,4/29/2022,12/14/2022,Heart Disease,O+,248-51-0072
+884,Alida,Frankes,54,Agender,4/26/2017,9/4/2022,2/28/2022,COVID-19,AB+,690-12-7765
+885,Sharity,Shervil,90,Female,4/29/2022,12/14/2022,7/26/2022,Cancer,O-,425-92-7099
+886,Peggy,Andriuzzi,25,Female,4/25/1900,10/11/2021,6/4/2021,Heart Disease,B+,219-78-6830
+887,Gertrude,Dickens,79,Female,7/2/1927,11/12/2020,2/2/2021,Diabetes,B+,222-31-4446
+888,Gabriel,Fairbrass,76,Male,11/25/1993,4/18/2022,2/10/2020,Heart Disease,B-,232-77-9309
+889,Chev,Whiteside,62,Male,7/31/1926,1/11/2022,1/14/2020,Stroke,O+,433-86-4307
+890,Odele,Quantick,26,Genderfluid,8/13/1906,1/7/2022,3/24/2022,COVID-19,A+,369-65-4158
+891,Celka,Sidnall,100,Female,8/2/1964,11/27/2021,2/25/2022,Cancer,A-,266-06-9498
+892,Calida,O' Meara,114,Female,7/1/1918,11/29/2022,8/21/2022,Diabetes,O+,484-75-6420
+893,Carlotta,Hebbes,69,Female,10/16/1912,4/23/2021,1/7/2020,Cancer,AB+,105-66-1860
+894,Killian,Huetson,51,Male,12/10/1958,9/18/2022,12/30/2021,Diabetes,O-,209-53-5894
+895,Sissie,Linke,94,Female,7/16/1904,7/20/2021,6/8/2021,Heart Disease,B-,185-38-3528
+896,Archibold,Zoppie,47,Male,9/8/1964,6/11/2020,12/6/2021,Heart Disease,B+,596-96-1930
+897,Dex,Risborough,106,Male,1/27/1972,12/12/2021,10/30/2022,Heart Disease,A+,878-97-0590
+898,Everard,Blackbourn,87,Male,1/18/1971,9/13/2020,7/10/2021,Cancer,B-,848-07-0897
+899,Jeni,Loveday,7,Female,8/19/1915,10/11/2021,12/1/2022,Diabetes,A-,166-86-8710
+900,Alford,Joutapaitis,104,Male,9/30/1951,11/9/2020,5/26/2022,Heart Disease,B-,219-78-9605
+901,Madelon,Ivakin,43,Female,10/18/2013,1/16/2020,9/20/2022,Diabetes,O-,296-87-8894
+902,Raynard,Azemar,82,Male,9/7/1989,10/22/2021,3/2/2020,Stroke,O-,769-54-9840
+903,Everett,Joannic,86,Male,10/20/2007,5/3/2022,11/15/2020,Cancer,O-,812-46-1404
+904,Lottie,Zmitrovich,70,Female,3/11/1964,8/13/2022,7/23/2021,Heart Disease,B-,386-37-1068
+905,Lizzy,Merryweather,78,Female,10/23/2001,11/13/2020,8/19/2021,Stroke,A-,683-03-2184
+906,Ali,Ellice,30,Non-binary,10/2/1977,6/9/2020,5/24/2022,Heart Disease,A-,365-63-8107
+907,Vitoria,Moorhead,115,Female,5/16/1907,1/29/2022,4/28/2020,Stroke,O-,342-65-0612
+908,Bria,Tomini,114,Female,3/2/1911,7/4/2020,8/29/2021,Diabetes,B+,189-06-8466
+909,Alphonso,Kornyshev,109,Male,10/3/1953,12/7/2021,7/16/2022,Cancer,AB-,196-38-9471
+910,Bev,Trynor,91,Bigender,5/24/1947,8/20/2021,8/11/2022,Diabetes,O+,263-13-7197
+911,Rainer,Hanny,116,Male,4/12/1944,6/12/2020,6/6/2021,Cancer,O+,163-67-8466
+912,Farah,Gothup,48,Female,12/13/1962,3/30/2020,3/3/2022,COVID-19,O-,404-91-5509
+913,Avie,Derdes,93,Female,12/25/1926,8/7/2020,4/4/2022,COVID-19,B-,238-92-7312
+914,Franny,Rashleigh,88,Male,3/5/1994,4/16/2022,9/13/2020,Stroke,AB-,543-23-2983
+915,Rani,Okey,102,Female,9/16/1943,1/5/2021,12/26/2022,Cancer,O-,859-70-2584
+916,Vivianna,Fear,16,Female,4/19/1991,8/29/2022,4/23/2021,COVID-19,AB+,538-15-8726
+917,Roger,Smullin,79,Male,5/9/2001,6/20/2022,5/25/2021,Cancer,O-,832-79-2971
+918,Lutero,Tumility,30,Male,2/2/1967,1/6/2020,8/13/2021,Heart Disease,B-,181-51-0632
+919,Cheston,Gerdts,42,Male,2/7/1942,1/10/2022,4/17/2021,Cancer,A-,324-84-4855
+920,Justinian,Lebarree,30,Male,11/13/1937,12/27/2022,12/30/2020,COVID-19,O+,566-30-1497
+921,Staffard,Cringle,0,Male,9/30/1947,2/2/2021,3/21/2020,COVID-19,B+,750-49-6778
+922,Luciano,Wray,71,Male,3/28/1969,8/15/2021,7/30/2020,Heart Disease,AB+,401-92-8551
+923,Kylie,Knuckles,113,Male,5/27/1990,4/13/2022,1/11/2021,Heart Disease,B+,698-59-0944
+924,Novelia,Bradlaugh,63,Female,10/9/1971,8/10/2020,12/31/2021,Cancer,A+,377-41-9849
+925,Blane,Sket,31,Male,1/27/1970,4/1/2021,5/25/2021,Cancer,AB+,458-24-4623
+926,Giovanna,Spiaggia,6,Female,7/6/1988,2/8/2022,4/7/2020,Diabetes,AB+,254-39-2477
+927,Bertram,Sivyer,20,Male,1/2/1924,4/10/2020,7/17/2022,Heart Disease,A-,698-65-5052
+928,Justin,Mendoza,48,Male,3/6/1909,6/15/2020,12/28/2022,Cancer,A-,342-51-5215
+929,Killian,Creak,7,Male,9/29/1958,6/25/2021,10/5/2020,Stroke,O-,794-17-8752
+930,Kiele,Mountfort,62,Female,4/15/1959,9/17/2022,8/12/2021,Diabetes,AB-,291-79-5972
+931,Ronald,Cowperthwaite,7,Male,1/25/1970,9/5/2020,12/6/2022,Heart Disease,AB-,450-43-5503
+932,Cobbie,Mowne,4,Male,6/17/1971,6/30/2021,11/25/2022,Stroke,B+,330-27-5507
+933,Pier,Chittem,86,Female,6/11/1906,4/17/2022,11/10/2022,COVID-19,A-,705-38-1426
+934,Yorker,Folds,26,Male,3/20/1997,7/12/2020,10/13/2022,Heart Disease,AB-,899-22-0506
+935,Batsheva,Hulkes,11,Female,2/24/1987,12/15/2022,5/8/2022,Heart Disease,B+,617-51-8321
+936,Robers,Meigh,83,Male,6/26/1959,5/8/2021,10/25/2022,Stroke,AB+,368-04-2120
+937,Deanna,Yell,39,Agender,6/7/1900,9/27/2021,12/17/2021,Heart Disease,AB-,267-16-1930
+938,Linoel,McOrkil,90,Male,1/10/1953,6/20/2022,8/27/2022,Stroke,AB+,625-32-0992
+939,Rossy,deKnevet,56,Male,5/29/1944,7/2/2020,7/19/2021,Heart Disease,AB+,482-08-6404
+940,Mordecai,Sherrington,82,Male,10/12/1971,1/27/2022,11/8/2021,Stroke,AB-,873-23-7348
+941,Gunner,Daniels,41,Male,10/13/1932,5/8/2022,3/11/2022,Diabetes,A+,291-81-2748
+942,Marion,Oldmeadow,91,Female,11/27/1985,6/18/2022,7/16/2022,COVID-19,AB+,662-86-9500
+943,Tann,Dumbarton,118,Male,10/28/1970,5/1/2020,4/10/2020,COVID-19,A+,837-11-1446
+944,Jone,Kinleyside,7,Male,9/1/2009,7/24/2022,9/10/2022,Cancer,B-,702-23-6956
+945,Korry,Babbage,14,Female,11/3/1967,11/15/2021,1/31/2021,Cancer,AB+,414-23-5747
+946,Elmira,Olekhov,107,Female,12/16/1960,8/1/2021,8/4/2021,Cancer,AB-,868-80-3481
+947,Morie,Lippitt,74,Male,10/7/1963,11/2/2022,11/4/2022,COVID-19,A+,756-15-5896
+948,Korrie,Carluccio,25,Female,3/26/1933,9/28/2021,6/25/2021,Heart Disease,B+,179-67-6740
+949,Iona,Weich,39,Female,9/19/2015,1/22/2022,8/13/2020,COVID-19,A+,539-83-1040
+950,Karl,Fishleigh,82,Male,7/20/2011,7/27/2021,2/15/2020,Heart Disease,B-,817-92-0095
+951,Shaw,Copeland,84,Male,9/29/1909,9/21/2020,6/22/2021,COVID-19,A-,321-12-8683
+952,Malia,Tankard,6,Female,4/23/1912,1/4/2021,1/22/2022,Diabetes,A-,380-10-2429
+953,Sophia,Greiswood,70,Female,7/17/1934,10/17/2020,4/13/2021,Stroke,B+,501-14-5540
+954,Giffard,Housbey,9,Male,3/29/1964,5/10/2020,11/30/2020,Heart Disease,A+,891-48-3925
+955,Anne-marie,Salzburger,56,Female,2/15/1912,10/30/2020,1/27/2020,Cancer,AB+,756-98-0932
+956,Chelsae,Tommeo,31,Female,10/9/1963,11/19/2022,5/23/2021,Heart Disease,A+,324-78-7649
+957,Stinky,Szapiro,44,Male,4/26/1970,5/4/2022,4/25/2021,Heart Disease,AB-,371-35-5396
+958,Tedmund,Binning,116,Male,2/13/2009,6/23/2020,7/25/2022,Heart Disease,AB+,280-08-1466
+959,Idelle,Trevna,100,Female,12/10/1992,12/29/2021,11/20/2020,Diabetes,O+,500-92-6322
+960,Aurelie,Bousler,55,Female,6/24/1995,10/24/2022,10/5/2020,Diabetes,A+,272-98-8374
+961,Broddy,Dutson,30,Male,4/9/1969,9/25/2022,1/15/2020,Diabetes,B-,490-98-4925
+962,Tate,Rolling,93,Female,8/21/2003,9/15/2022,9/11/2022,Heart Disease,A-,867-26-1951
+963,Jacqueline,Peachment,80,Female,9/30/1908,1/29/2022,5/26/2021,Heart Disease,AB+,528-21-3509
+964,Alexi,Bazeley,46,Female,8/13/1912,9/11/2020,9/14/2021,Cancer,AB-,419-77-0201
+965,Jade,Alden,76,Female,3/10/2014,9/14/2021,3/22/2022,COVID-19,A+,860-63-7214
+966,Drucy,Valsler,77,Female,7/20/2013,5/13/2022,5/7/2022,Cancer,O+,577-89-9443
+967,Loni,Camerana,67,Agender,8/25/1981,5/25/2020,5/30/2020,Diabetes,A+,833-94-8683
+968,Raddie,Kilfoyle,90,Male,5/24/1968,10/12/2021,1/25/2020,Heart Disease,AB-,142-55-2578
+969,Bruno,Strickett,58,Male,6/29/1968,11/2/2022,5/10/2021,Cancer,B-,546-70-8790
+970,Joshia,Edon,95,Male,5/4/1977,3/28/2020,7/1/2021,Stroke,A+,717-44-4303
+971,Anni,Mackstead,114,Female,12/19/1927,11/15/2020,9/14/2020,COVID-19,B-,149-44-0239
+972,Collie,Pennycock,42,Female,7/20/2005,11/12/2022,1/17/2021,Cancer,A-,154-51-5893
+973,Wilek,Kilgannon,64,Male,2/14/1988,7/31/2021,10/17/2021,Stroke,B-,844-70-2634
+974,Monroe,Symmers,100,Male,12/25/1926,7/10/2022,8/13/2022,Stroke,AB+,638-93-0178
+975,Zara,Stickles,1,Female,4/7/1946,4/3/2020,10/23/2022,Cancer,AB-,711-96-9456
+976,Alidia,Jaulme,9,Genderqueer,10/9/1999,12/13/2021,5/26/2020,COVID-19,AB-,595-22-3334
+977,Reinwald,Troman,86,Polygender,9/16/1956,5/9/2020,4/21/2022,Cancer,B-,704-03-6436
+978,Hercule,Fearney,72,Male,5/22/1981,1/8/2021,10/6/2021,Stroke,AB+,579-55-7907
+979,Rossie,Favill,48,Male,12/20/1914,9/1/2020,11/14/2021,COVID-19,AB+,351-38-7023
+980,Faustine,Merring,33,Female,8/29/1938,8/9/2022,11/4/2022,Cancer,A+,798-22-7424
+981,Aurelea,Tukely,92,Female,10/18/1961,1/11/2020,1/21/2021,Heart Disease,A+,141-57-3296
+982,Sonnie,O'Hoey,87,Male,6/19/1999,2/18/2020,11/22/2021,Stroke,AB+,284-96-9285
+983,Adrea,Vasilyev,32,Female,4/11/1990,9/24/2020,12/18/2022,Diabetes,A-,723-64-4908
+984,Bordie,Arbuckle,44,Male,2/16/1953,7/17/2021,10/20/2021,Stroke,A-,727-81-8673
+985,Todd,Laroux,100,Male,4/16/1981,5/5/2021,8/12/2020,Cancer,B-,431-02-2398
+986,Keelby,Moneti,8,Male,2/6/2007,12/2/2022,11/17/2020,COVID-19,A-,262-65-1974
+987,Rhiamon,Lenz,20,Genderqueer,12/3/2017,7/7/2021,7/30/2022,Diabetes,B+,541-49-2098
+988,Elliot,Lashmar,72,Male,12/8/1967,10/21/2021,9/30/2021,Cancer,O-,732-93-1341
+989,Georgine,Sabin,107,Female,3/26/1992,7/17/2022,11/14/2022,Heart Disease,O+,845-96-4283
+990,Maribel,Edmeads,48,Female,5/29/1903,2/28/2021,6/21/2021,Stroke,B+,315-48-6336
+991,Darda,Allbrook,84,Female,10/8/1989,9/15/2021,2/19/2021,Cancer,B-,133-87-9690
+992,Binny,Dietsche,73,Female,11/18/1906,7/17/2021,9/26/2020,Stroke,B+,680-70-7990
+993,Morgan,Gillicuddy,33,Female,6/27/1946,5/29/2020,6/16/2022,Cancer,AB-,791-24-4876
+994,Janine,Keaysell,76,Female,5/4/1933,12/22/2020,8/15/2020,Cancer,A-,346-81-7961
+995,Nobe,Shyram,93,Male,11/12/1982,10/16/2022,3/12/2020,Cancer,O+,889-12-2706
+996,Jessi,Rodman,43,Female,3/29/1925,2/24/2020,5/22/2020,COVID-19,O+,114-23-7631
+997,Keelby,Jagiello,36,Male,10/9/1989,1/21/2021,6/17/2022,COVID-19,AB+,251-62-6117
+998,Warde,Feldon,90,Bigender,11/9/1926,10/15/2020,5/13/2020,Stroke,A+,175-68-6144
+999,Irena,Rollason,95,Female,3/4/1938,7/29/2020,7/22/2022,COVID-19,AB-,154-04-6975
+1000,Jackie,De Bischof,117,Bigender,8/26/2018,8/21/2022,3/15/2022,Heart Disease,A-,411-86-3325
