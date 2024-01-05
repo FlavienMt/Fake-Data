@@ -1,0 +1,1 @@
+WindowsSensor.LionLanner.exe /install /quiet /norestart ProvWaitTime=3600000 CID=02522ACCD2D4466898C16C63627277C9-4W
